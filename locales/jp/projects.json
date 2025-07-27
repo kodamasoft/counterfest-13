@@ -28,62 +28,6 @@
         "mastering-status": "マスタリングステータス",
         "artwork-commission": "ジャケット画像の依頼"
     },
-    "eclectic-resonance": {
-        "name": "ECLECTIC RESONANCE",
-        "desc": "ECLECTIC RESONANCEは、私たちのオリジナルワークブランドアルバムです。それぞれの接尾は、特定のスタイルやジャンルを指向していることを意味します。気に入ったアルバムがあるかもしれないので、ぜひそれぞれのアルバムをチェックしてみてください！",
-        "eclectic-resonance-uprising": {
-            "title": "ECLECTIC RESONANCE UPRISING",
-            "themes": "オリジナル、J-Core、Hardcore Techno"
-        },
-        "eclectic-resonance-uprising-2": {
-            "title": "ECLECTIC RESONANCE UPRISING 2",
-            "themes": "オリジナル、J-Core、Hardcore、Hard Techno、Psy、Techcore、Hi-tech"
-        },
-        "eclectic-resonance-uprising-3": {
-            "title": "ECLECTIC RESONANCE UPRISING 3",
-            "themes": "オリジナル、J-Core、Hardcore、Hard Techno、Psy、Techcore、Hi-tech"
-        },
-        "eclectic-resonance-detuned-alloy": {
-            "title": "ECLECTIC RESONANCE Detuned Alloy",
-            "themes": "オリジナル曲、ハードロック、メタル、アコースティック、ギター中心"
-        },
-        "eclectic-resonance-detuned-alloy-2": {
-            "title": "ECLECTIC RESONANCE Detuned Alloy 2",
-            "themes": "オリジナル曲、ハードロック、メタル、アコースティック、ギター中心"
-        },
-        "eclectic-resonance-memories": {
-            "title": "ECLECTIC RESONANCE Memories",
-            "themes": "オリジナル曲、Chiptune、FM Music"
-        },
-        "eclectic-resonance-memories-2": {
-            "title": "ECLECTIC RESONANCE Memories 2",
-            "themes": "オリジナル曲、Chiptune、FM Music"
-        },
-        "eclectic-resonance-legendaria": {
-            "title": "ECLECTIC RESONANCE Legendaria",
-            "themes": "オリジナル曲、Folk / Celtic / Fantasy / Traditional / JRPG inspired"
-        },
-        "eclectic-resonance-legendaria-2": {
-            "title": "ECLECTIC RESONANCE Legendaria II",
-            "themes": "オリジナル曲、Folk / Celtic / Fantasy / Traditional / JRPG inspired"
-        },
-        "eclectic-resonance-hollow-horizons": {
-            "title": "ECLECTIC RESONANCE hollow horizons",
-            "themes": "オリジナル曲、Techno / Minimal / IDM / Downtempo"
-        },
-        "eclectic-resonance-hollow-horizons-2": {
-            "title": "ECLECTIC RESONANCE hollow horizons 2",
-            "themes": "オリジナル曲、Techno / Minimal / IDM / Downtempo"
-        },
-        "eclectic-resonance-paradise": {
-            "title": "ECLECTIC RESONANCE PARADISE",
-            "themes": "テーマ: オリジナル曲、ジャズ、ハウス、フュージョン"
-        },
-        "eclectic-resonance-escapism": {
-            "title": "ECLECTIC RESONANCE Escapism",
-            "themes": "テーマ: オリジナル曲、アップリフティング、トランス、プログレッシブハウス"
-        }
-    },
     "tribute-albums": {
         "name": "「Tribute」アルバム",
         "desc": "これは、特定のシリーズやゲームを中心とするアルバムです。ガイドラインに沿っていれば、スタイルやジャンルは問いません。イメージソングもOKです。",
@@ -114,38 +58,10 @@
         "vanilla-parfait": {
             "title": "Vanilla Parfait -a Vanillaware tribute album-",
             "themes": "ヴァニラウエアトリビュートアルバム (十三機兵防衛圏、朧村正、オーディンスフィア...)"
-        }
-    },
-    "gensokyo-party": {
-        "name": "Gensokyo Party",
-        "desc": "Gensokyo Partyは東方シリーズを中心とする様々なスタイルのアルバムシリーズです。",
-        "gensokyo-party-vantablack-3": {
-            "title": "Gensokyo Party VANTABLACK 3",
-            "themes": "「戦争する幻想郷」 (ダークな雰囲気、Experimental、Metal、Hardcore...)"
         },
-        "gensokyo-party-5-vantablack-2": {
-            "title": "Gensokyo Party Vol. 5 Gensokyo Party VANTABLACK 2",
-            "themes": "「戦争する幻想郷」 (ダークな雰囲気、Experimental、Metal、Hardcore...)"
-        },
-        "gensokyo-party-6-border-in-stasis": {
-            "title": "Gensokyo Party Vol. 6 Border in Stasis",
-            "themes": "「廃墟になってしまった幻想郷」 (Artcore、IDM、Classical、Orchestral...)"
-        },
-        "gensokyo-party-3-moriya-barista":{
-            "title": "Gensokyo Party Moriya Barista 2",
-            "themes": "「平和な幻想郷」 (のんびりとした雰囲気、Jazz、Lowtempo...)"
-        },
-        "moriya-barista-2":{
-            "title": "Gensokyo Party Moriya Barista 2",
-            "themes": "「平和な幻想郷」 (のんびりとした雰囲気、Jazz、Lowtempo...)"
-        },
-        "gensokyo-party-4-dj-koishi": {
-            "title": "Gensokyo Party DJ Koishi",
-            "themes": "「幻想郷のダンスフロア」 (Club、EDM、Trance...)"
-        },
-        "dj-koishi-2": {
-            "title": "Gensokyo Party DJ Koishi 2",
-            "themes": "「幻想郷のダンスフロア」 (Club、EDM、Trance...)"
+        "speedstars": {
+            "title": "SpeedSTARS -a Ridge Racer tribute album-",
+            "themes": "リッジレーサー中心アルバム"
         }
     }
 }

@@ -1,51 +1,23 @@
 [
 	{
-		"cat_slug": "eclectic-resonance",
+		"cat_slug": "tribute-albums",
 		"projects": [
-		{
-				"slug": "eclectic-resonance-paradise",
-				"status": "about-to-release",
-				"percentage": "100",
-				"duration": "58:48",
-				"finished_tracks": "16",
-				"deadline": "2025-06-20T23:59:59Z",
-				"mastering": {
-					"status": "completed",
-					"engineer": "R-Man (Resonant Union)"
-				},
-				"artwork_comission": "completed",
-				"color": "#dbb458"
-			},
 			{
-				"slug": "eclectic-resonance-uprising-3",
-				"status": "accepting",
-				"percentage": "20",
-				"duration": "16:50",
-				"finished_tracks": "4",
-				"deadline": "2025-09-13T23:59:59Z",
-				"mastering": {
-					"status": "pending",
-					"engineer": "malicent (Cursed Monastery / Sigillum Azoetia)"
-				},
-				"artwork_comission": "completed",
-				"color": "#6cc3b9"
-			},
-      {
-				"slug": "eclectic-resonance-memories-2",
+				"slug": "speedstars",
 				"status": "accepting",
 				"percentage": "10",
-				"duration": "06:24",
+				"duration": "09:32",
 				"finished_tracks": "2",
-				"deadline": "2025-09-13T23:59:59Z",
+				"deadline": "2025-07-31T23:59:59Z",
 				"mastering": {
 					"status": "pending",
-					"engineer": "sdhizumi"
+					"engineer": "???"
 				},
 				"artwork_comission": "pending",
-				"color": "#f9c74f"
+				"color": "#ff5733"
 			},
 			{
-				"slug": "eclectic-resonance-detuned-alloy-2",
+				"slug": "vanilla-parfait",
 				"status": "accepting",
 				"percentage": "0",
 				"duration": "00:00",
@@ -55,68 +27,23 @@
 					"engineer": "R-Man (Resonant Union)"
 				},
 				"artwork_comission": "pending",
-				"color": "#9f1239"
+				"color": "#ceab82"
 			},
-      {
-				"slug": "eclectic-resonance-hollow-horizons-2",
+			{
+				"slug": "midnight-syndrome-2",
 				"status": "accepting",
 				"percentage": "0",
 				"duration": "00:00",
 				"finished_tracks": "0",
 				"mastering": {
 					"status": "pending",
-					"engineer": "TBD"
+					"engineer": "???"
 				},
 				"artwork_comission": "pending",
-				"color": "#000000"
-			},
-      {
-				"slug":"eclectic-resonance-legendaria-2",
-				"status": "accepting",
-				"percentage": "0",
-				"duration": "00:00",
-				"finished_tracks": "0",
-				"mastering": {
-					"status": "pending",
-					"engineer": "TBD"
-				},
-				"artwork_comission": "pending",
-				"color": "#d44215"
+				"color": "#e94242"
 			},
 			{
-				"slug": "eclectic-resonance-escapism",
-				"status": "released",
-				"percentage": "100",
-				"duration": "1:41:38",
-				"finished_tracks": "16",
-				"deadline": "2025-03-23T23:59:59Z",
-				"mastering": {
-					"status": "completed",
-					"engineer": "malicent (Cursed Monastery / Sigillum Azoetia)"
-				},
-				"artwork_comission": "completed",
-				"color": "#68bd7d"
-			}
-		]
-	},
-	{
-		"cat_slug": "gensokyo-party",
-		"projects": [
-			{
-				"slug": "moriya-barista-2",
-				"status": "accepting",
-				"percentage": "0",
-				"duration": "00:00",
-				"finished_tracks": "0",
-				"mastering": {
-					"status": "pending",
-					"engineer": "R-Man (Resonant Union)"
-				},
-				"artwork_comission": "pending",
-				"color": "#6ee7b7"
-			},
-			{
-				"slug": "dj-koishi-2",
+				"slug": "moonstruck-analogy-ii",
 				"status": "accepting",
 				"percentage": "0",
 				"duration": "00:00",
@@ -126,34 +53,33 @@
 					"engineer": "malicent (Cursed Monastery / Sigillum Azoetia)"
 				},
 				"artwork_comission": "pending",
-				"color": "#65a30d"
+				"color": "#fde68a"
 			},
 			{
-				"slug": "gensokyo-party-vantablack-3",
+				"slug": "fragments-of-gratitude-ii",
+				"status": "accepting",
+				"percentage": "5",
+				"duration": "03:25",
+				"finished_tracks": "1",
+				"mastering": {
+					"status": "pending",
+					"engineer": "malicent (Cursed Monastery / Sigillum Azoetia)"
+				},
+				"artwork_comission": "pending",
+				"color": "#7dd3fc"
+			},
+			{
+				"slug": "katamania-2",
 				"status": "accepting",
 				"percentage": "0",
 				"duration": "00:00",
 				"finished_tracks": "0",
 				"mastering": {
 					"status": "pending",
-					"engineer": "TBD"
+					"engineer": "malicent (Cursed Monastery / Sigillum Azoetia)"
 				},
 				"artwork_comission": "pending",
-				"color": "#fcbcda"
-			},
-			{
-				"slug": "gensokyo-party-6-border-in-stasis",
-				"status": "released",
-				"percentage": "100",
-				"duration": "1:03:55",
-				"finished_tracks": "14",
-				"deadline": "2025-03-15T23:59:59Z",
-				"mastering": {
-					"status": "completed",
-					"engineer": "blobdash"
-				},
-				"artwork_comission": "completed",
-				"color": "#fda564"
+				"color": "#f472b6"
 			}
 		]
 	}
