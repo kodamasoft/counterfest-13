@@ -12,13 +12,11 @@ export default function Header() {
 
 	let links = [
 		{ href: '/', label: 'Home' },
-		{ href: '/kodamasoft', label: 'KodamaSoft' },
 		{ href: '/discography', label: 'Discography' },
 		{ href: '/projects', label: 'Projects' },
-		{ href: '/staff', label: 'Staff' },
 		{
-			href: 'https://counterfest.kodamasoft.net',
-			label: 'COUNTERFEST RECORDS',
+			href: 'https://kodamasoft.net',
+			label: 'KodamaSoft',
 		},
 		// { href: '/blog', label: 'Blog' }
 	];
