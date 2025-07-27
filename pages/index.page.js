@@ -9,7 +9,6 @@ import Trans from 'next-translate/Trans';
 import Link from 'next/link';
 import Image from 'next/image';
 
-import { getAllPosts } from '../lib/api';
 import { WEBSITE_NAME } from '../lib/constants';
 
 import KodamaSoftMascot from '../public/assets/kodamasoft.png';
@@ -105,26 +104,9 @@ export default function Index({ filteredPosts }) {
 								</p>
 							</div>
 						</div>
-
-						{filteredPosts.length > 0 && (
-							<MoreStories posts={filteredPosts} />
-						)}
 					</div>
 				</Container>
 			</Layout>
 		</>
 	);
-}
-
-export async function getStaticProps({ locale }) {
-	let allPosts = getAllPosts(
-		['title', 'date', 'slug', 'author', 'locale', 'public'],
-		locale
-	);
-
-	let filteredPosts = allPosts.filter((post) => post.public !== false);
-
-	return {
-		props: { filteredPosts },
-	};
 }
