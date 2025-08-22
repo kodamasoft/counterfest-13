@@ -2,6 +2,7 @@ import Layout from '../components/layout';
 import Head from 'next/head';
 import Container from '../components/container';
 import Header from '../components/header';
+import Trans from 'next-translate/Trans';
 
 import AlbumListing from '../components/album-listing';
 import albumsJson from '/public/assets/discography/albums.json';
@@ -69,7 +70,12 @@ export default function Discography() {
 							<AlbumListing key={key} slug={key} />
 						))}
 					</div>
-					<h2 className="text-lg font-bold mb-4">LEGACY ALBUMS</h2>
+					<h2 className="text-2xl text-center uppercase mb-6 text-white font-bold">
+						<Trans i18nKey="common:projects.legacy" />
+					</h2>
+					<p className="text-center text-white">
+						<Trans i18nKey="common:projects.legacyDescription" />
+					</p>
 					<div className="flex flex-wrap">
 						{Object.keys(sortedLegacyAlbums).map((key) => (
 							<AlbumListing key={key} slug={key} />

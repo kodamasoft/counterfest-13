@@ -6,7 +6,6 @@ import ProseContainer from '../components/prose-container';
 import Trans from 'next-translate/Trans';
 
 import Link from 'next/link';
-import Image from 'next/image';
 
 import { WEBSITE_NAME } from '../lib/constants';
 
