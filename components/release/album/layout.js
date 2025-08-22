@@ -30,6 +30,8 @@ export default function ReleaseLayout({ release }) {
         --background-color: #${backgroundColor};
     }`;
 
+	console.log(release);
+
 	return (
 		<>
 			<GlobalStyles />

@@ -1,7 +1,6 @@
 import LocaleSwitcher from '../../locale-switcher';
 import Link from 'next/link';
 import Image from 'next/image';
-import React from 'react';
 
 export default function ReleaseNav({ ...props }) {
 	return (
@@ -10,14 +9,14 @@ export default function ReleaseNav({ ...props }) {
 				<div className="flex justify-between items-center">
 					<Link href="/">
 						<Image
-							src="/assets/kodamaspeed.png"
+							src="/assets/Logo_Orange_Transparent.png"
 							style={{
 								position: 'relative',
 								top: '10px',
 							}}
 							width={100}
 							height={100}
-							alt="KodamaSounds"
+							alt="CounterfestRecords"
 							quality={100}
 						/>
 					</Link>
