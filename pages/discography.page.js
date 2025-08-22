@@ -14,17 +14,17 @@ export default function Discography() {
 	const legacyAlbums = {};
 	const albums = {};
 
-  Object.keys(albumsJson).forEach((key) => {
-    const album = albumsJson[key];
-    if (album.id.startsWith('KSDL')) {
-      legacyAlbums[key] = album;
-    } else {
-      albums[key] = album;
-    }
-  });
+	Object.keys(albumsJson).forEach((key) => {
+		const album = albumsJson[key];
+		if (album.id.startsWith('KSDL')) {
+			legacyAlbums[key] = album;
+		} else {
+			albums[key] = album;
+		}
+	});
 
-  // Sort both albums and legacy albums by release date
-  const sortedAlbums = Object.keys(albums)
+	// Sort both albums and legacy albums by release date
+	const sortedAlbums = Object.keys(albums)
 		.sort((a, b) => {
 			const dateA = new Date(albums[a].releaseDate);
 			const dateB = new Date(albums[b].releaseDate);
@@ -40,7 +40,7 @@ export default function Discography() {
 			return obj;
 		}, {});
 
-  const sortedLegacyAlbums = Object.keys(legacyAlbums)
+	const sortedLegacyAlbums = Object.keys(legacyAlbums)
 		.sort((a, b) => {
 			const dateA = new Date(legacyAlbums[a].releaseDate);
 			const dateB = new Date(legacyAlbums[b].releaseDate);
@@ -56,27 +56,27 @@ export default function Discography() {
 			return obj;
 		}, {});
 
-  return (
-    <Layout>
-      <Head>
-        <title>{WEBSITE_NAME}</title>
-      </Head>
-      <Container>
-        <Header />
-        <div className="container pt-10 px-6 mx-auto">
-          <div className="flex flex-wrap">
-            {Object.keys(sortedAlbums).map((key) => (
-              <AlbumListing key={key} slug={key} />
-            ))}
-          </div>
-          <h2 className="text-lg font-bold mb-4">LEGACY ALBUMS</h2>
-          <div className="flex flex-wrap">
-            {Object.keys(sortedLegacyAlbums).map((key) => (
-              <AlbumListing key={key} slug={key} />
-            ))}
-          </div>
-        </div>
-      </Container>
-    </Layout>
-  );
+	return (
+		<Layout>
+			<Head>
+				<title>{WEBSITE_NAME}</title>
+			</Head>
+			<Container>
+				<Header />
+				<div className="container pt-10 px-6 mx-auto">
+					<div className="flex flex-wrap">
+						{Object.keys(sortedAlbums).map((key) => (
+							<AlbumListing key={key} slug={key} />
+						))}
+					</div>
+					<h2 className="text-lg font-bold mb-4">LEGACY ALBUMS</h2>
+					<div className="flex flex-wrap">
+						{Object.keys(sortedLegacyAlbums).map((key) => (
+							<AlbumListing key={key} slug={key} />
+						))}
+					</div>
+				</div>
+			</Container>
+		</Layout>
+	);
 }

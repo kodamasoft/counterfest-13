@@ -22,7 +22,10 @@ const iconLinks = [
 	{ href: 'https://discord.gg/9ZmHv3r', icon: FaDiscord },
 	{ href: 'https://ko-fi.com/kodamasoft', icon: FaCoffee },
 	{ href: 'https://twitter.com/counterfest', icon: FaTwitter },
-	{ href: 'https://bsky.app/profile/counterfestrecords.bsky.social', icon: BskySVG },
+	{
+		href: 'https://bsky.app/profile/counterfestrecords.bsky.social',
+		icon: BskySVG,
+	},
 	{ href: 'https://www.youtube.com/@COUNTERFESTRECORDS', icon: FaYoutube },
 	{ href: 'https://soundcloud.com/counterfest-records', icon: FaSoundcloud },
 	{ href: 'https://counterfestrecords.bandcamp.com', icon: FaBandcamp },
@@ -59,8 +62,7 @@ export default function Footer() {
 					>
 						Bonnie
 					</a>{' '}
-					and Kat
-					(KodamaSoft) <br />
+					and Kat (KodamaSoft) <br />
 				</p>
 			</div>
 		</footer>
