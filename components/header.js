@@ -3,7 +3,7 @@ import LocaleSwitcher from './locale-switcher';
 import headerStyles from './header.module.css';
 import Link from 'next/link';
 import Image from 'next/image';
-import logo from '../public/assets/logo_white.png';
+import logo from '../public/assets/Logo_DarkOrange_Transparent.png';
 import useTranslation from 'next-translate/useTranslation';
 import { Disclosure, Transition } from '@headlessui/react';
 
@@ -21,17 +21,14 @@ export default function Header() {
 		// { href: '/blog', label: 'Blog' }
 	];
 
-	let canDisplayBanner =
-		new Date().getMonth() <= 3 && new Date().getFullYear() === 2024;
-
 	return (
-		<header className="relative w-full h-auto text-white text-center flex flex-col select-none bg-[url('/assets/big_01_space_g.png')] bg-center bg-cover">
+		<header className="relative w-full h-auto text-white text-center flex flex-col select-none bg-black">
 			<h1 className={headerStyles.header_title}>
 				<Link href="/" className="cursor-pointer">
 					<Image
 						src={logo}
 						alt={WEBSITE_NAME}
-						height={150}
+						height={230}
 						className="cursor-pointer mx-auto max-w-full drop-shadow-sm"
 					/>
 				</Link>
@@ -40,7 +37,7 @@ export default function Header() {
 			{/* MOBILE NAVBAR */}
 			<Disclosure
 				as="nav"
-				className="bg-purple-900/30 backdrop-blur-sm text-white sm:hidden"
+				className="bg-orange-500/80 backdrop-blur-sm text-white sm:hidden"
 			>
 				{({ open }) => (
 					<>
@@ -48,7 +45,7 @@ export default function Header() {
 							<div className="flex justify-center items-center p-4">
 								<svg
 									xmlns="http://www.w3.org/2000/svg"
-									className="h-6 w-6 text-white"
+									className="h-6 w-6 text-black"
 									fill="none"
 									viewBox="0 0 24 24"
 									stroke="currentColor"
@@ -89,13 +86,13 @@ export default function Header() {
 										<Link
 											href={link.href}
 											key={index}
-											className="text-gray-300 hover:bg-purple-700/50 hover:text-white px-3 py-2 rounded-md text-sm font-medium border-2 border-transparent focus-visible:border-purple-600 focus-visible:outline-hidden transition"
+											className="text-black hover:bg-black/80 hover:text-white px-3 py-2 rounded-md text-sm font-medium border-2 border-transparent focus-visible:border-purple-600 focus-visible:outline-hidden transition"
 										>
 											{link.label}
 										</Link>
 									))}
 
-									<LocaleSwitcher className="w-fit m-0 text-gray-300 bg-gray-900/50 hover:bg-purple-700/50 hover:text-white px-3 py-2 rounded-md text-sm font-medium border-2 border-transparent focus-visible:border-purple-600 focus-visible:outline-hidden transition"></LocaleSwitcher>
+									<LocaleSwitcher className="w-fit m-0 text-white bg-white/50 hover:bg-black/80 hover:text-white px-3 py-2 rounded-md text-sm font-medium border-2 border-transparent focus-visible:border-purple-600 focus-visible:outline-hidden transition"></LocaleSwitcher>
 								</div>
 							</Disclosure.Panel>
 						</Transition>
@@ -104,7 +101,7 @@ export default function Header() {
 			</Disclosure>
 
 			{/* DESKTOP NAVBAR */}
-			<nav className="bg-purple-900/30 backdrop-blur-sm text-white hidden sm:block">
+			<nav className="bg-orange-500/80 backdrop-blur-sm text-white hidden sm:block">
 				<div
 					id="navbar"
 					className="flex flex-col sm:flex-row justify-center p-4 gap-4 items-center"
@@ -113,13 +110,13 @@ export default function Header() {
 						<Link
 							href={link.href}
 							key={index}
-							className="text-gray-300 hover:bg-purple-700/50 hover:text-white px-3 py-2 rounded-md text-sm font-medium border-2 border-transparent focus-visible:border-purple-600 focus-visible:outline-hidden transition"
+							className="text-black hover:bg-black/80 hover:text-white px-3 py-2 rounded-md text-sm font-medium border-2 border-transparent focus-visible:border-purple-600 focus-visible:outline-hidden transition"
 						>
 							{link.label}
 						</Link>
 					))}
 
-					<LocaleSwitcher className="w-fit m-0 text-gray-300 bg-gray-900/50 hover:bg-purple-700/50 hover:text-white px-3 py-2 rounded-md text-sm font-medium border-2 border-transparent focus-visible:border-purple-600 focus-visible:outline-hidden transition"></LocaleSwitcher>
+					<LocaleSwitcher className="w-fit m-0 text-black bg-white/50 hover:bg-black/80 hover:text-white px-3 py-2 rounded-md text-sm font-medium border-2 border-transparent focus-visible:border-purple-600 focus-visible:outline-hidden transition"></LocaleSwitcher>
 				</div>
 			</nav>
 		</header>
