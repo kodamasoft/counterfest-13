@@ -29,7 +29,7 @@
         "coverColor": "#953531",
         "bandcamp": "https://kodamasounds.bandcamp.com/album/katamania-a-katamari-tribute-album",
         "booth": "https://kodamasoft.booth.pm/items/5344997",
-        "website": "/releases/katamania",
+        "website": "https://kodamasoft.net/releases/katamania",
         "vgmdb": "https://vgmdb.net/album/125841"
     },
 	"midnight-syndrome": {
@@ -39,6 +39,17 @@
         "cover": "/assets/discography/covers/0015.png",
         "coverColor": "#000000",
         "website": "https://kodamasoft.net/releases/midnight-syndrome",
+        "vgmdb": "https://vgmdb.net/album/137464",
+        "bandcamp": "https://kodamasounds.bandcamp.com/album/midnight-syndrome-a-grasshopper-manufacture-tribute-album"
+    }
+    ,
+	"speedstars": {
+        "id": "CFRC-0001",
+        "releaseDate": "2025-09-01T00:00:00+0200",
+        "name": "SPEEDSTARS -a Speed Racer tribute album-",
+        "cover": "/assets/discography/covers/0015.png",
+        "coverColor": "#000000",
+        "website": "/releases/speedstars",
         "vgmdb": "https://vgmdb.net/album/137464",
         "bandcamp": "https://kodamasounds.bandcamp.com/album/midnight-syndrome-a-grasshopper-manufacture-tribute-album"
     }

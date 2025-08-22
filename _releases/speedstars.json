@@ -1,26 +1,22 @@
 {
-	"slug": "midnight-syndrome",
-	"logo": "/assets/discography/logos/0015.png",
-	"color": "d72c2c",
+	"slug": "speedstars",
+	"logo": "/assets/discography/logos/CFRC-0001",
+	"color": "f7ab1d",
 	"soundcloud_track_id": "1886450892",
-	"cover": "/assets/discography/covers/0015.png",
-	"title": "MIDNIGHT SYNDROME -a Grasshopper Manufacture tribute album-",
+	"cover": "/assets/discography/covers/CFRC-0001",
+	"title": "SpeedSTARS -a Ridge Racer tribute album-",
 	"circle": {
-		"name": "KodamaSounds",
+		"name": "COUNTERFEST RECORDS",
 		"link": "/"
 	},
-	"specification": "Digital Grasshopper Manufacture Arrange Album",
-	"release_date": "Aug 11 2024 (Comic Market 104)",
-	"catalog": "KSDL-0015",
+	"specification": "Digital Ridge Racer Series Arrange/remix Album",
+	"release_date": "Sep 1st 2025",
+	"catalog": "CFRC-0001",
 	"price": "Free / Name Your Price",
 	"store": {
 		"bandcamp": {
 			"name": "Bandcamp",
-			"link": "https://kodamasounds.bandcamp.com/album/midnight-syndrome-a-grasshopper-manufacture-tribute-album"
-		},
-		"booth": {
-			"name": "BOOTH",
-			"link": "https://kodamasoft.booth.pm/items/5970215"
+			"link": "https://counterfestrecords.bandcamp.com/album/speedstars-a-ridge-racer-tribute-album"
 		}
 	},
 	"tracklist": {
@@ -201,5 +197,5 @@
 			"role": "Web"
 		}
 	},
-	"footer": "All original compositions and characters respective of GRASSHOPPER MANUFACTURE & HUMAN. ノーモア★ヒーローズ, ムーンライトシンドローム, シルバー事件, Killer is Dead, killer7 © GRASSHOPPER MANUFACTURE ムーンライトシンドローム © HUMAN"
+	"footer": "All original compositions and characters respective of NAMCO & NAMCO BANDAI Games Inc., Ridge Racer © NAMCO, Ridge Racer 2 © NAMCO, R4: Ridge Racer Type 4 © NAMCO, Rage Racer © NAMCO, R: Racing Evolution © NAMCO, Ridge Racer (PSP) © NAMCO, Ridge Racer 6 © NAMCO, Ridge Racer 7 © NAMCO BANDAI Games Inc., Ridge Racer 3D © NAMCO BANDAI Games Inc., Ridge Racer © NAMCO BANDAI Games Inc."
 }

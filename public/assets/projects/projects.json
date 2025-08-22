@@ -4,14 +4,14 @@
 		"projects": [
 			{
 				"slug": "speedstars",
-				"status": "accepting",
-				"percentage": "10",
-				"duration": "09:32",
-				"finished_tracks": "2",
+				"status": "completed",
+				"percentage": "100",
+				"duration": "1:00:41",
+				"finished_tracks": "15",
 				"deadline": "2025-07-31T23:59:59Z",
 				"mastering": {
 					"status": "pending",
-					"engineer": "???"
+					"engineer": "malicent (Cursed Monastery / Sigillum Azoetia)"
 				},
 				"artwork_comission": "pending",
 				"color": "#ff5733"
@@ -26,7 +26,7 @@
 					"status": "pending",
 					"engineer": "R-Man (Resonant Union)"
 				},
-				"artwork_comission": "pending",
+				"artwork_comission": "completed",
 				"color": "#ceab82"
 			},
 			{
@@ -50,7 +50,7 @@
 				"finished_tracks": "0",
 				"mastering": {
 					"status": "pending",
-					"engineer": "malicent (Cursed Monastery / Sigillum Azoetia)"
+					"engineer": "???"
 				},
 				"artwork_comission": "pending",
 				"color": "#fde68a"
@@ -63,7 +63,7 @@
 				"finished_tracks": "1",
 				"mastering": {
 					"status": "pending",
-					"engineer": "malicent (Cursed Monastery / Sigillum Azoetia)"
+					"engineer": "???"
 				},
 				"artwork_comission": "pending",
 				"color": "#7dd3fc"
@@ -76,7 +76,7 @@
 				"finished_tracks": "0",
 				"mastering": {
 					"status": "pending",
-					"engineer": "malicent (Cursed Monastery / Sigillum Azoetia)"
+					"engineer": "???"
 				},
 				"artwork_comission": "pending",
 				"color": "#f472b6"
