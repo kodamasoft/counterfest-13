@@ -20,28 +20,17 @@
 	},
 	"home": {
 		"description": "Get ready for a new perspective. <strong>COUNTERFEST RECORDS</strong> is a 2025 established Bootleg Sub-Label for KodamaSounds. The objective of COUNTERFEST RECORDS is to publish <strong>free</strong> albums (both compilations and solo releases), and to let anyone interested in organising their own album projects to publish them for free there, if it follows our vision for the label. The idea behind the label is to motivate all kinds of free album compilations, with no fear for publishing derivative works, in all kinds of ways, in a way less serious mood than KodamaSounds normally would. We also strive to offer artists better opportunities to craft what they want for our tribute albums, in a different vision from KodamaSounds. Starting 2025, all new “Tribute Album” projects will be published for free on COUNTERFEST RECORDS instead of KodamaSounds.",
-		"soft": {
-			"title": "KodamaSoft",
-			"lead": "for all things related to game and software.",
-			"description": "KodamaSoft is our ongrowing branch for video game development, specifically visual novels at the current time - KODAMA COMET -Stellar Sanctuary- being our current project, still in development. Read more about it on the dedicated page!"
-		},
-		"sounds": {
-			"title": "KodamaSounds",
-			"lead": "for all things related to music.",
-			"description": "KodamaSounds has been our lead since 2020. We have produced a dozen of album compilations and more than a hundred tracks, with a constant stream of planned album projects for years to come, to which anyone can freely contribute to.",
-			"link": "Check out our full <a>discography</a> here!",
-			"games": "We will also be using KodamaSounds to release soundtracks and arrange albums of our very own self-released games, such as Stellar Sanctuary, and are also currently sound producing the soundtrack for Touhou Fractured Transience, a Touhou fangame -so keep an eye out for all that!"
-		},
-		"blog_header": "Our blog posts"
-	},
-	"kodamadirect2024_banner": "Check out the Kodama Direct 2024 for a quick rundown of the planned projects for the coming year!",
-	"home_legacys": {
-		"title": "Welcome to the official website of KodamaSoft / KodamaSounds.",
 		"content": {
-			"1": "We are a Doujin/Indie circle, and we aim at showcasing the best kind of audiovisual works from people all around the world, be it in the form of video games, publications, music albums and more. The circle was founded by Fivda in 2017, for our first project, called KODAMA COMET -Stellar Sanctuary-, a visual novel still in development.",
-			"2": "As you can imagine from the name, our circle is divided in two:<ul><li>KodamaSoft, for all things related to softwares and games.</li><li>KodamaSounds, for all things related to music.</li></ul>",
-			"3": "KodamaSounds is our strong lead right now. With multiple albums published on <bandcamp>Bandcamp</bandcamp> and <booth>BOOTH</booth>, and many more planned for the coming years. We have the same publishing spirit as many other japanese doujin circles, but our ambitions are not focused on a specific series or style of music. Whether they’re for original work or arrangement projects, we want to feature as many artists as we can on our albums from new musical adepts to well known veterans. Please check out our list of ongoing projects if you wanna hop in!"
-		}
+				"title": "What's the core idea behind COUNTERFEST RECORDS?",
+				"1": "A more leftfield environment to create unique albums with no profit in mind - both for original albums, and tribute albums.",
+				"2": "A label which supports all kinds of music and countercultures - the more specific, the better.",
+				"3": "More artistic freedom and a fairer ground for all.",
+				"4": "Less ambitious (but just as crazy) releases, with a wider variation of concepts and ideas.",
+				"5": "Concepts originating from the art of bootleg remixes & marginalised/experimental styles of music.",
+				"6": "No BS, and free content!",
+				"7": "Sampling is life.",
+				"8": "Enjoy your stay."
+			}
 	},
 	"projects": {
 		"presentation": {
