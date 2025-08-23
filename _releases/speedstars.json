@@ -5,6 +5,9 @@
 	"soundcloud_track_id": "1886450892",
 	"cover": "/assets/discography/covers/CFRC-0001.png",
 	"title": "SpeedSTARS -a Ridge Racer tribute album-",
+	"background": {
+		"color": "f7931e"
+	},
 	"circle": {
 		"name": "COUNTERFEST RECORDS",
 		"link": "/"
