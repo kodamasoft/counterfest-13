@@ -6,7 +6,8 @@
 	"cover": "/assets/discography/covers/CFRC-0001.png",
 	"title": "SpeedSTARS -a Ridge Racer tribute album-",
 	"background": {
-		"color": "f7931e"
+		"color": "ffffff",
+		"text_color": "000000"
 	},
 	"circle": {
 		"name": "COUNTERFEST RECORDS",
