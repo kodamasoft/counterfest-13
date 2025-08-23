@@ -1,8 +1,4 @@
 @import 'tailwindcss';
-@import './namco70th/portal.css';
-@import './namco70th/almightysoundexpress.css';
-@import './namco70th/gamesoundcollage.css';
-@import './namco70th/ironfist.css';
 
 @plugin '@tailwindcss/typography';
 @plugin '@headlessui/tailwindcss';
