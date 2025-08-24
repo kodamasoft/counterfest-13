@@ -1,7 +1,7 @@
 {
 	"slug": "speedstars",
 	"logo": "/assets/discography/logos/CFRC-0001.png",
-	"color": "7d7972",
+	"color": "656058",
 	"soundcloud_track_id": "1886450892",
 	"cover": "/assets/discography/covers/CFRC-0001.png",
 	"title": "SpeedSTARS -a Ridge Racer tribute album-",
@@ -352,6 +352,30 @@
 			]
 		},
 		"11": {
+			"title": "PRIMITIVE",
+			"artist": "Monochrome feat. suzie",
+			"description": [
+			"• Original Composer: Hiroshi Okubo [大久保博]",
+			"• Arranger: Monochrome",
+			"• Vocals: suzie",
+			"",
+			"• Programmed, Produced & Mixed by Monochrome",
+			"• Mastering Engineer: malicent (Cursed Monastery / Sigillum Azoetia)",
+			"",
+			"• Original Track: PROLOGUE",
+			"• Source: Rage Racer",
+			"",
+			"• About this track: I made the decision to scale back on my workload in the middle of the year, and SpeedSTARS was one of the albums I backed out of.  I honestly believed I wouldn't participate, as I lacked both the time to work on it and the connection to the Ridge Racer franchise and its music.  But I kept up with the United Tribute Arrange Force's various Namco tribute albums - contributing to a few myself - and more and more I realized I wanted to at least try to do something for SpeedSTARS.  I credit ANGELWHISPER for giving me the push to make something, even if it was short, and for directing me towards Rage Racer's OST.  I was able to have a lot of fun trying out rally house for the first time - this album seemed like a perfect test drive for that, and I was so into the track that I whipped it up in just 2 days.  Special thank you to suzie for her last-minute voiceover cameo as the Rage Racer narrator!",
+			"",
+			"BPM: 128",
+			"Time Signatures: 4/4",
+			"Key: C#min",
+			"Genre: Rally House",
+			"",
+			"https://monochromemedia.bandcamp.com/"
+			]
+		},
+		"12": {
 			"title": "The Light Wish",
 			"artist": "Yozu C",
 			"description": [
@@ -375,7 +399,7 @@
 				"https://yozushitunes.bandcamp.com/"
 			]
 		},
-		"12": {
+		"13": {
 			"title": "Moving Forward",
 			"artist": "Raphtalix",
 			"description": [
@@ -398,7 +422,7 @@
 				"https://raphtalix.bandcamp.com"
 			]
 		},
-		"13": {
+		"14": {
 			"title": "Universal Xplorer",
 			"artist": "ViRiX Dreamcore",
 			"description": [
@@ -423,41 +447,73 @@
 				"https://virixdreamcore.bandcamp.com/"
 			]
 		},
-		"14": {
-			"title": "Tonight",
-			"artist": "artist",
-			"description": [
-				""
-			]
-		},
 		"15": {
-			"title": "track",
-			"artist": "artist",
+			"title": "Tonight",
+			"artist": {
+				"en": "ehm & MyuPicks feat. Miku Hatsune",
+				"jp": "ehm & MyuPicks feat. 初音ミク"
+			},
 			"description": [
-				""
+				"• Original Composer: Taku Inoue [井上拓] (NBGI)",
+				"• Arranger: ehm & MyuPicks",
+				"• Vocals: Miku Hatsune [初音ミク]",
+				"• Original Lyrics: Sky Hy",
+				"",
+				"• Programmed, Produced & Mixed by ",
+				"• Mastering Engineer: malicent (Cursed Monastery / Sigillum Azoetia)",
+				"",
+				"• Original Track: Tonight (Ending Credit)",
+				"• Source: Ridge Racer 3D",
+				"",
+				"• Used Software: pxtone, Vocaloid 4, FL Studio",
+				"",
+				"BPM: 95",
+				"Time Signatures: 4/4",
+				"Key: N/A",
+				"Genre: Hip-Hop",
+				"",
+				"https://x.com/EhMehShmeh"
 			]
 		},
 		"16": {
-			"title": "track",
-			"artist": "artist",
+			"title": "Pacific Rush",
+			"artist": "driftsonic",
 			"description": [
-				""
+				"• Composer & Arranger: driftsonic",
+				"",
+				"• Programmed, Produced, Mixed & Mastered by driftsonic",
+				"• Additional Mastering: EQ, Limiting",
+				"",
+				"• Original Track: Image Song",
+				"• Source: Ridge Racer (PSP)",
+				"",
+				"• Used Software: FL Studio",
+				"• Used VSTs & Samples: Roland JD-800, Arturia DX7 V, Arturia Spark 2",
+				"",
+				"• About this track: Distant memories of racing along the wind-swept California coastline at sunset",
+				"",
+				"BPM: 170/85",
+				"Time Signatures: 4/4",
+				"Key: E♭ minor",
+				"Genre: Drifting",
+				"",
+				"https://botnit.bandcamp.com"
 			]
 		}
 	},
 	"youtube_id": "4fLxXqFuRVc",
 	"credits": {
 		"1": {
-			"role": "driftsonic",
-			"id": "AIKATYPE"
+			"role": "Music",
+			"id": "driftsonic"
 		},
 		"2": {
-			"role": "Music, Narration, Supervisor & Planner",
-			"id": "Fivda"
+			"role": "Music, Vocals, Lyrics, Electric Guitar, Crossfade Video",
+			"id": "soothingMelody"
 		},
 		"3": {
 			"role": "Music",
-			"id": "MAGIC MAN TONY ASTRO"
+			"id": "Tektheist"
 		},
 		"4": {
 			"role": "Music",
@@ -465,83 +521,123 @@
 		},
 		"5": {
 			"role": "Music",
-			"id": "Monochrome"
+			"id": "v1ris"
 		},
 		"6": {
 			"role": "Music",
-			"id": "Theosmeo"
+			"id": "l4ureleye"
 		},
 		"7": {
 			"role": "Music",
-			"id": "MegaStrike"
+			"id": "blobdash"
 		},
 		"8": {
 			"role": "Music",
-			"id": "jaxcheese"
+			"id": "H BOYS"
 		},
 		"9": {
-			"role": "Music",
-			"id": "Tobokegao"
+			"role": "Mastering (Track 08), Audio Crossfade",
+			"id": "Volumetrique"
 		},
 		"10": {
 			"role": "Music",
-			"id": "Nuchuu"
+			"id": "NATSUKA"
 		},
 		"11": {
 			"role": "Music",
-			"id": "HEAVYVIPER"
+			"id": "Monochrome"
 		},
 		"12": {
-			"role": "Voice",
-			"id": "CHERRY CODEBREAKER"
+			"role": "Vocals (Track 11)",
+			"id": "suzie"
 		},
 		"13": {
-			"id": "Masafumi Takada",
-			"role": "Original Composer"
+			"role": "Music",
+			"id": "Raphtalix"
 		},
 		"14": {
-			"id": "Tomohiro Shirai",
-			"role": "Original Composer"
+			"role": "Music",
+			"id": "ViRiX Dreamcore"
 		},
 		"15": {
-			"id": "Kazuhiro Goto",
-			"role": "Original Composer"
+			"role": "Music",
+			"id": "ehm"
 		},
 		"16": {
-			"id": "Nobuaki Kaneko",
-			"role": "Original Composer"
+			"role": "Music",
+			"id": "MyuPicks"
 		},
 		"17": {
-			"id": "malicent",
-			"role": "Mastering Engineer"
+			"role": "Trumpet (Track 02)",
+			"id": "Max Peace"
 		},
 		"18": {
-			"id": "Volumetrique",
-			"role": "Audio Crossfade"
+			"role": "Original Composer",
+			"id": "Sampling Masters MEGA"
 		},
 		"19": {
-			"id": "Garrrros",
-			"role": "Illustration"
+			"role": "Original Composer",
+			"id": "Kohta Takahashi"
 		},
 		"20": {
-			"id": "Zeth",
-			"role": "Design"
+			"role": "Original Composer",
+			"id": "Hiroshi Okubo"
 		},
 		"21": {
-			"id": "cal",
-			"role": "Logo Designer"
+			"role": "Original Composer",
+			"id": "Asuka Sakai"
 		},
 		"22": {
-			"id": "Yanis",
-			"role": "Japanese Translator"
+			"role": "Original Composer",
+			"id": "Sampling Masters AYA"
 		},
 		"23": {
-			"id": "Hiskov",
-			"role": "Crossfade Video"
+			"role": "Original Composer",
+			"id": "Takayuki Aihara"
 		},
 		"24": {
-			"id": "krz",
-			"role": "Web"
+			"role": "Original Composer",
+			"id": "AJURIKA"
+		},
+		"25": {
+			"role": "Original Composer",
+			"id": "sanodg"
+		},
+		"26": {
+			"role": "Original Composer",
+			"id": "Ryuichi Takada"
+		},
+		"27": {
+			"role": "Original Lyrics",
+			"id": "Phillip Turnipseed"
+		},
+		"28": {
+			"role": "Original Lyrics",
+			"id": "Sky Hy"
+		},
+		"29": {
+			"role": "Mastering Engineer",
+			"id": "malicent"
+		},
+		"30": {
+			"role": "Illustration, Design & Logo Designer",
+			"id": "Progress"
+		},
+		"31": {
+			"role": "Supervisor & Planner",
+			"id": "Fivda"
+		},
+		"32": {
+			"role": "Japanese Translator",
+			"id": "Yanis"
+		},
+		"33": {
+			"role": "Gameplay Footage",
+			"id": "robinemimimmi"
+		},
+		"34": {
+			"role": "Web",
+			"id": "Bonnie"
 		}
 	},
 	"footer": "All original compositions and characters respective of NAMCO & NAMCO BANDAI Games Inc., Ridge Racer © NAMCO, Ridge Racer 2 © NAMCO, R4: Ridge Racer Type 4 © NAMCO, Rage Racer © NAMCO, R: Racing Evolution © NAMCO, Ridge Racer (PSP) © NAMCO, Ridge Racer 6 © NAMCO, Ridge Racer 7 © NAMCO BANDAI Games Inc., Ridge Racer 3D © NAMCO BANDAI Games Inc., Ridge Racer © NAMCO BANDAI Games Inc."
