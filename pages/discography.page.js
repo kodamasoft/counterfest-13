@@ -70,7 +70,7 @@ export default function Discography() {
 							<AlbumListing key={key} slug={key} />
 						))}
 					</div>
-					<h2 className="text-2xl text-center uppercase mb-6 text-white font-bold">
+					<h2 className="text-2xl text-center uppercase mb-6 text-white font-bold pt-6">
 						<Trans i18nKey="common:projects.legacy" />
 					</h2>
 					<p className="text-center text-white">

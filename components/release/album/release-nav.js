@@ -5,7 +5,7 @@ import Image from 'next/image';
 export default function ReleaseNav({ ...props }) {
 	return (
 		<div {...props}>
-			<header className="container mx-auto px-4">
+			<header className="container mx-auto p-4">
 				<div className="flex justify-between items-center">
 					<Link href="/">
 						<Image
