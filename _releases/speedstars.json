@@ -553,89 +553,93 @@
 		},
 		"13": {
 			"role": "Music",
-			"id": "Raphtalix"
+			"id": "Yozu C"
 		},
 		"14": {
 			"role": "Music",
-			"id": "ViRiX Dreamcore"
+			"id": "Raphtalix"
 		},
 		"15": {
 			"role": "Music",
-			"id": "ehm"
+			"id": "ViRiX Dreamcore"
 		},
 		"16": {
 			"role": "Music",
-			"id": "MyuPicks"
+			"id": "ehm"
 		},
 		"17": {
+			"role": "Music",
+			"id": "MyuPicks"
+		},
+		"18": {
 			"role": "Trumpet (Track 02)",
 			"id": "Max Peace"
 		},
-		"18": {
+		"19": {
 			"role": "Original Composer",
 			"id": "Sampling Masters MEGA"
 		},
-		"19": {
+		"20": {
 			"role": "Original Composer",
 			"id": "Kohta Takahashi"
 		},
-		"20": {
+		"21": {
 			"role": "Original Composer",
 			"id": "Hiroshi Okubo"
 		},
-		"21": {
+		"22": {
 			"role": "Original Composer",
 			"id": "Asuka Sakai"
 		},
-		"22": {
+		"23": {
 			"role": "Original Composer",
 			"id": "Sampling Masters AYA"
 		},
-		"23": {
+		"24": {
 			"role": "Original Composer",
 			"id": "Takayuki Aihara"
 		},
-		"24": {
+		"25": {
 			"role": "Original Composer",
 			"id": "AJURIKA"
 		},
-		"25": {
+		"26": {
 			"role": "Original Composer",
 			"id": "sanodg"
 		},
-		"26": {
+		"27": {
 			"role": "Original Composer",
 			"id": "Ryuichi Takada"
 		},
-		"27": {
+		"28": {
 			"role": "Original Lyrics",
 			"id": "Phillip Turnipseed"
 		},
-		"28": {
+		"29": {
 			"role": "Original Lyrics",
 			"id": "Sky Hy"
 		},
-		"29": {
+		"30": {
 			"role": "Mastering Engineer",
 			"id": "malicent"
 		},
-		"30": {
+		"31": {
 			"role": "Illustration, Design & Logo Designer",
 			"id": "Progress"
 		},
-		"31": {
+		"32": {
 			"role": "Supervisor & Planner",
 			"id": "Fivda"
 		},
-		"32": {
+		"33": {
 			"role": "Japanese Translator",
 			"id": "Yanis"
 		},
-		"33": {
+		"34": {
 			"role": "Gameplay Footage",
 			"id": "robinemimimmi"
 		},
-		"34": {
+		"35": {
 			"role": "Web",
 			"id": "Bonnie"
 		}
