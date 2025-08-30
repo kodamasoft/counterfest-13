@@ -3,20 +3,6 @@
 		"cat_slug": "tribute-albums",
 		"projects": [
 			{
-				"slug": "speedstars",
-				"status": "about-to-release",
-				"percentage": "100",
-				"duration": "1:00:41",
-				"finished_tracks": "16",
-				"deadline": "2025-07-31T23:59:59Z",
-				"mastering": {
-					"status": "completed",
-					"engineer": "malicent (Cursed Monastery / Sigillum Azoetia)"
-				},
-				"artwork_comission": "completed",
-				"color": "#ff5733"
-			},
-			{
 				"slug": "vanilla-parfait",
 				"status": "accepting",
 				"percentage": "0",
@@ -80,6 +66,20 @@
 				},
 				"artwork_comission": "pending",
 				"color": "#f472b6"
+			},
+			{
+				"slug": "speedstars",
+				"status": "about-to-release",
+				"percentage": "100",
+				"duration": "1:00:41",
+				"finished_tracks": "16",
+				"deadline": "2025-07-31T23:59:59Z",
+				"mastering": {
+					"status": "completed",
+					"engineer": "malicent (Cursed Monastery / Sigillum Azoetia)"
+				},
+				"artwork_comission": "completed",
+				"color": "#ff5733"
 			}
 		]
 	}
