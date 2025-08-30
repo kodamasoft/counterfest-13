@@ -128,13 +128,15 @@ export default function AlbumListing({ slug }) {
 						Bandcamp
 					</a>
 
-					<a
+					{album.booth && (
+						<a
 						href={album.booth}
 						className="kodama_btn kodama_btn--primary"
 					>
 						<BoothSVG className="h-4 w-4 mr-2" />
 						BOOTH
 					</a>
+					)}
 				</div>
 
 				{(album.appleMusic ||
