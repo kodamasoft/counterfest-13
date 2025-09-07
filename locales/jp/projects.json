@@ -62,6 +62,10 @@
         "speedstars": {
             "title": "SpeedSTARS -a Ridge Racer tribute album-",
             "themes": "リッジレーサー中心アルバム"
+        },
+        "counterfest-heroes": {
+            "title": "COUNTERFEST HEROES 01",
+            "themes": "テーマ：オリジナル/ブートレグコンピレーション"
         }
     }
 }

@@ -3,6 +3,19 @@
 		"cat_slug": "tribute-albums",
 		"projects": [
 			{
+				"slug": "counterfest-heroes",
+				"status": "accepting",
+				"percentage": "0",
+				"duration": "00:00",
+				"finished_tracks": "0",
+				"mastering": {
+					"status": "pending",
+					"engineer": "???"
+				},
+				"artwork_comission": "pending",
+				"color": "#FF5C00"
+			},
+			{
 				"slug": "vanilla-parfait",
 				"status": "accepting",
 				"percentage": "0",
