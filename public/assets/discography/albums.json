@@ -53,6 +53,15 @@
         "website": "/releases/speedstars",
         "vgmdb": "https://vgmdb.net/album/145976",
         "bandcamp": "https://counterfestrecords.bandcamp.com/album/speedstars-a-ridge-racer-tribute-album"
+    },
+    "left-behind-but-not-forgotten": {
+        "id": "CFRC-0001",
+        "releaseDate": "2025-09-01T00:00:00+0200",
+        "name": "Left behind but not forgotten.",
+        "cover": "/assets/discography/covers/CFRC-0001.png",
+        "coverColor": "#f7ab1d",
+        "website": "/releases/speedstars",
+        "vgmdb": "https://vgmdb.net/album/145976",
+        "bandcamp": "https://counterfestrecords.bandcamp.com/album/speedstars-a-ridge-racer-tribute-album"
     }
-
 }
