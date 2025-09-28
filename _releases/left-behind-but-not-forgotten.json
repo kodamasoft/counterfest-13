@@ -1,14 +1,14 @@
 {
 	"slug": "left-behind-but-not-forgotten",
 	"logo": "/assets/discography/logos/CFRC-0002.png",
-	"color": "dd32d9",
+	"color": "b06631",
 	"soundcloud_track_id": "2136875400",
 	"cover": "/assets/discography/covers/CFRC-0002.png",
 	"header": {
 		"image": "/assets/discography/headers/CFRC-0002.png"
 	},
 	"background": {
-		"color": "293c90"
+		"color": "ededed"
 	},
 	"title": "Left behind but not forgotten. / Volumetrique",
 	"circle": {
@@ -18,7 +18,7 @@
 	"specification": "Digital Original & Bootleg EP",
 	"release_date": "Oct 10, 2025",
 	"catalog": "KSCD-0002",
-	"price": "Price: Pre-Order & Event Price: 12€ / 2000 yen | Post Release Price: 15€ / 2500 yen",
+	"price": "Name your price",
 	"store": {
 		"bandcamp": {
 			"name": "Bandcamp",
