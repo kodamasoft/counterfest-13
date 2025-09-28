@@ -2415,6 +2415,12 @@
 			"vgmdb": "https://vgmdb.net/artist/74850"
 		}
 	},
+	"DRS": {
+		"name": "DRS",
+		"links": {
+			"twitter": "https://x.com/MCDRS"
+		}
+	},
 	"SampleEN": {
 		"name": "SampleEN",
 		"links": {
