@@ -1,0 +1,145 @@
+{
+	"slug": "left-behind-but-not-forgotten",
+	"logo": "/assets/discography/logos/CFRC-0002.png",
+	"color": "b06631",
+	"soundcloud_track_id": "3A2184182259",
+	"cover": "/assets/discography/covers/CFRC-0002.png",
+	"header": {
+		"image": "/assets/discography/headers/CFRC-0002.png"
+	},
+	"background": {
+		"color": "ededed",
+		"text_color": "000000"
+	},
+	"title": "Left behind but not forgotten. / Volumetrique",
+	"circle": {
+		"name": "COUNTERFEST RECORDS",
+		"link": "/"
+	},
+	"specification": "Digital Original & Bootleg EP",
+	"release_date": "Oct 10, 2025",
+	"catalog": "KSCD-0002",
+	"price": "Name your price",
+	"store": {
+		"bandcamp": {
+			"name": "Bandcamp",
+			"link": "https://counterfestrecords.bandcamp.com/album/left-behind-but-not-forgotten"
+		}
+	},
+	"tracklist": {
+		"01": {
+			"title": "isolated, but always with hope.",
+			"artist": "Volumetrique",
+			"description": [
+				"• Composer & Arranger: Volumetrique (KodamaSounds)",
+				"",
+				"• Programmed, Produced, Mixed & Mastered by Volumetrique (KodamaSounds)",
+				"",
+				"• Used Software: FL Studio 20~25",
+				"• Used VSTs & Samples: Addictive Keys 2, Nexus 3, Augmented Voices",
+				"",
+				"• About this track: Track started in my 'liquid era', circa April 2023. Back when I had the courage to write for the Piano. Somewhat a followup to City Streets - this was made in the same era.",
+				"",
+				"https://volumetrique.bandcamp.com"
+			]
+		},
+		"02": {
+			"title": "Jazz Fallacies",
+			"artist": "Volumetrique voc. DRS",
+			"description": [
+				"• Composer & Arranger: Volumetrique (KodamaSounds)",
+				"• Original Lyrics and Vocals: DRS",
+				"",
+				"• Programmed, Produced, Mixed & Mastered by Volumetrique (KodamaSounds)",
+				"",
+				"• Used Software: FL Studio 24~25",
+				"• Used VSTs & Samples: Addictive Keys 2, Louge Lizard EP-4, Addictive Drums 2",
+				"",
+				"• About this track: First idea was fleshed out during '2hr jam' (shoutout Axo & Demi) in January 2024, with vocals taken from 'Zar & DRS - Like to Know'. This track was originally called 'Highs and Lows'. Initially made to see if I could arrange and compose for EPianos myself. Went back to it later in 2025, working on the jazz section and drum solo.",
+				"",
+				"",
+				"Vocals Originally from \"Zar & DRS - Like to Know\" © Liquid V Recordings",
+				"",
+				"https://volumetrique.bandcamp.com"
+			]
+		},
+		"03": {
+			"title": "Sanctuary",
+			"artist": "Volumetrique",
+			"description": [
+				"• Composer & Arranger: Volumetrique (KodamaSounds)",
+				"",
+				"• Programmed, Produced, Mixed & Mastered by Volumetrique (KodamaSounds)",
+				"",
+				"• Used Software: FL Studio 20~25",
+				"• Used VSTs & Samples: Addictive Keys 2, Veela - Siren vocal pack, Hydro break",
+				"",
+				"• About this track: One of my oldest tracks, made soon after Room to Grow and City Streets, circa July 2022. Initially with a much higher tempo (190) and heavily chopped Amen Breaks. It was slowed down and actually worked much better. The second drop is what remains of the original idea, with a much more chaotic drum pattern. Similarly to 'isolated', I composed for the piano in this track. The vocals are heavily pitched down, from the famous Veela pack which I've been addicted to ever since I first began producing music. For some reason this track just gets me in a certain mood about good times I've spent making music as a beginner.",
+				"",
+				"https://volumetrique.bandcamp.com"
+			]
+		},
+		"04": {
+			"title": "Find a Place",
+			"artist": "Volumetrique",
+			"description": [
+				"• Composer, Arranger & Lyrics: Volumetrique (KodamaSounds)",
+				"• Vocals: ASTERIAN (Synthesizer V)",
+				"",
+				"• Programmed, Produced, Mixed & Mastered by Volumetrique (KodamaSounds)",
+				"",
+				"• Used Software: FL Studio 20~25",
+				"• Used VSTs & Samples: Synthesizer V",
+				"",
+				"• About this track: Originally a flip on a random Rhodes sample I downloaded from YouTube, I haven't been able to locate the video ever since. Started August 2023. The main rhodes in the drop is duplicated and pitched up an octave, with volume automation, giving it this guitar-like tonality. One of my favourite sound design technique since, which I've reused in tracks such as Sirens (never released but iykyk). The vocal is made using Synthesizer V, with this being my first experience with lyrics, up until my remix of Bad Seed for YOKAI's album. I wanted a deep voice, similar to that of DRS which I was (and am still) addicted to. Unfortunately not quite what I envisioned but it worked.",
+				"",
+				"https://volumetrique.bandcamp.com"
+			]
+		},
+		"05": {
+			"title": "City Streets",
+			"artist": "Volumetrique",
+			"description": [
+				"• Composer & Arranger: Volumetrique (KodamaSounds)",
+				"",
+				"• Programmed, Produced, Mixed & Mastered by Volumetrique (KodamaSounds)",
+				"• Vocal arrangement by Volumetrique (KodamaSounds)",
+				"",
+				"• Used Software: FL Studio 20~25",
+				"• Used VSTs & Samples: Addictive Keys 2, Veela - Siren vocal pack",
+				"",
+				"• About this track: Wow! A track I actually dropped before! It feels like ages, but this was my first ever Volumetrique release, if I recall corectly, circa May 2022. The original cover art was just my street in my old house in Chateauneuf-sur-Isère, France. Guess what! Vocals are from Veela's Siren pack, again! Who could have guessed.",
+				"",
+				"https://volumetrique.bandcamp.com"
+			]
+		},
+		"06": {
+			"title": "Room to Grow",
+			"artist": "Volumetrique",
+			"description": [
+				"• Composer & Arranger: Volumetrique (KodamaSounds)",
+				"",
+				"• Programmed, Produced, Mixed & Mastered by Volumetrique (KodamaSounds)",
+				"",
+				"• Used Software: FL Studio 20~25",
+				"• Used VSTs & Samples: SophieMichelle ASMR, 'Reading to you for sleep', Arturia V Collection 7",
+				"",
+				"• About this track: Originally a VTQ track because I wasn't confident in me to use my main alias for it.  This one feels very special to me. I wrote and produced it on my laptop, on vacation in Reunion Island (my second home, where I lived for 3---very formative---years), circa March 2022. I discovered Arturia's V Collection 7 at the time and was hooked. This only uses simple VSTs, and was probably one of my first non-schranz track I actually finished. It has a sister jungle track, that i also produced at the same time. Both were sent to Cynphetic (shoutout) for 'NEOSTALGIA ONLINE' and I still don't know why this one got taken in. The track uses an ASMR whispering video as a sample, which is truly wayyyy too reverby. I got the idea from The Caracal Project's track \"This World Stopped\", and it's actually from the same video by SophieMichelle ASMR. This is pretty much what also got me addicted into ASMR, which I currently am listening to while typing this paragraph. Yay! I decided to include it in this album to remind me of the progression that came from this. The name was chosen so that I could reflect on it later on... Smart :P",
+				"",
+				"https://volumetrique.bandcamp.com"
+			]
+		}
+	},
+	"youtube_id": "O6bLUkkjmw8",
+	"credits": {
+		"1": {
+			"role": "Music, Mixing, Mastering, Visuals, Direction",
+			"id": "Volumetrique"
+		},
+		"2": {
+			"role": "Original Lyrics and Original Vocals",
+			"id": "DRS"
+		}
+	},
+	"footer": "All music and visuals owned by KodamaSounds and their respective artists"
+}

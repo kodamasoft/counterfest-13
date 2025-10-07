@@ -16,6 +16,13 @@
 	},
 	"speedstars": {
 	  "desc": "「Alright everyone, one minute to go! Are you ready to go?」SpeedSTARS はリッジレーサーシリーズを中心としたトリビュートアルバムです。VGM が本格的に普及し始めた 90 年代初頭、ヨーロッパの EDM の要素をアーケードのブラウン管に持ち込んだこのシリーズは、時代を先駆けていました。多くの人に愛されてきたリッジレーサーシリーズは、さまざまなジャンルとスタイルで SpeedSTARS で祝いましょう。このアルバムは、NAMCOの設立70周年を記念する「United Tribute Arrange Force」プロジェクトの一環です。"
-	}
+	},
+ 	"left-behind-but-not-forgotten": {
+    "desc": "\"Collection of Liquid Drum & Bass works from 2021~2024. This album is a testament to almost 4 years of producing, while still not finding what I truly enjoy making. Perhaps, one could say I'm lost. But at the same time, I've been lost forever yet I've never felt like it was truly a problem. So Let's hope the next few years are equally filled with both ups and downs - I think this is what makes my life so interesting. Liquid DnB has been a great genre to produce over the years, with inspiration by Makoto, LSB, Harry Shotta, and many more. While being a genre I sometimes consider as 'lazy' or 'uninspired', I still think it's one of the widest subgenres of drum & bass, considering the range of instruments—both synthetic and acoustic—which can be used. The cover artwork and video visuals are a love letter to my magnificent country and region - the French Alps, and showcase something I really enjoy: taking deep breaths outside through driving, hiking or cycling. The photo was taken in 2023 during a bivouac and is the westside of Taillefer from the Plateau des Lacs, and various videos were taken from 2021 to today on various trips and hikes, by car, foot or bicycle. And to you, a message: touch grass. go up that hill. it's worth it. nature's where the mind is free.\""
+  },
+  "projects": {
+    "presentation": {
+      "title": "ermmm"
+    }
   }
-  
+}
