@@ -26,7 +26,7 @@ export default function Header() {
 			<h1 className={headerStyles.header_title}>
 				<Link href="/" className="cursor-pointer">
 					<Image
-						src="/assets/Logo_DarkOrange_Transparent.png"
+						src={logo}
 						alt={WEBSITE_NAME}
 						height={230}
 						width={230}
