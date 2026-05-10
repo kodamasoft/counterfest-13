@@ -3,7 +3,7 @@ import LocaleSwitcher from './locale-switcher';
 import headerStyles from './header.module.css';
 import Link from 'next/link';
 import Image from 'next/image';
-import logo from 'public/assets/Logo_DarkOrange_Transparent.png';
+import logo from '/public/assets/Logo_DarkOrange_Transparent.png';
 import useTranslation from 'next-translate/useTranslation';
 import { Disclosure, Transition } from '@headlessui/react';
 
