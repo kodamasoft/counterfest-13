@@ -26,9 +26,10 @@ export default function Header() {
 			<h1 className={headerStyles.header_title}>
 				<Link href="/" className="cursor-pointer">
 					<Image
-						src={logo}
+						src="/assets/Logo_DarkOrange_Transparent.png"
 						alt={WEBSITE_NAME}
 						height={230}
+						width={230}
 						className="cursor-pointer mx-auto max-w-full drop-shadow-sm"
 					/>
 				</Link>
