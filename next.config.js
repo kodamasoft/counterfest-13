@@ -20,6 +20,9 @@ module.exports = withMDX(
 		},
 		pageExtensions: ['page.js', 'page.mdx', '.mdx', '.js'],
 		reactStrictMode: true,
+		images: {
+			unoptimized: true
+		},
 		i18n: {
 			locales: ['en', 'jp'],
 			defaultLocale: 'en',
