@@ -25,8 +25,5 @@ module.exports = withMDX(
 			defaultLocale: 'en',
 			localeDetection: false,
 		},
-		images: {
-			unoptimized: true,
-		}
 	})
 );
