@@ -1,21 +1,26 @@
 [
 	{
-		"cat_slug": "tribute-albums",
+		"cat_slug": "special-albums",
 		"projects": [
 			{
 				"slug": "counterfest-heroes",
 				"status": "accepting",
-				"percentage": "0",
-				"duration": "00:00",
-				"finished_tracks": "0",
+				"percentage": "75",
+				"duration": "46:01",
+				"finished_tracks": "13",
 				"deadline": "2026-05-17T23:59:59Z",
 				"mastering": {
 					"status": "pending",
-					"engineer": "???"
+					"engineer": "malicent (Cursed Monastery / Sigillum Azoetia)"
 				},
-				"artwork_comission": "pending",
+				"artwork_comission": "sketching",
 				"color": "#FF5C00"
-			},
+			}
+		]
+	},
+	{
+		"cat_slug": "tribute-albums",
+		"projects": [
 			{
 				"slug": "vanilla-parfait",
 				"status": "accepting",

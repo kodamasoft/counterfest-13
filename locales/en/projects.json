@@ -29,6 +29,14 @@
         "mastering-status": "Mastering Status",
         "artwork-commission": "Artwork Commission"
     },
+    "special-albums": {
+        "name": "Special Albums",
+        "desc": "Albums which contains project-specific properties.",
+        "counterfest-heroes": {
+            "title": "COUNTERFEST HEROES 01",
+            "themes": "Original/Bootleg Compilation"
+        }
+    },
     "tribute-albums": {
         "name": "Tribute Albums",
         "desc": "Those are albums entirely dedicated to a specific series/game. Any styles and genres are accepted, so long as they follow our individual guidelines. Image songs are also accepted so long as they follow the rules.",
@@ -63,10 +71,6 @@
         "speedstars": {
             "title": "SpeedSTARS -a Ridge Racer tribute album-",
             "themes": "Ridge Racer centered album"
-        },
-        "counterfest-heroes": {
-            "title": "COUNTERFEST HEROES 01",
-            "themes": "Original/Bootleg Compilation"
         }
     }
 }
