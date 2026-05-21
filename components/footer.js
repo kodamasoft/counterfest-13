@@ -48,7 +48,7 @@ export default function Footer() {
 					))}
 				</div>
 				<p className="text-slate-500 mt-5">
-					Counterfest logo by{' '}
+					COUNTERFEST RECORDS logo by{' '}
 					<a
 						href="https://twitter.com/ZethZ161"
 						className="text-slate-500 transition hover:text-slate-50 hover:underline"
