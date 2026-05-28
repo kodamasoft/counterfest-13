@@ -1,0 +1,652 @@
+{
+	"slug": "counterfest-heroes-01",
+	"logo": "/assets/discography/logos/CFRC-0001.png",
+	"color": "656058",
+	"soundcloud_track_id": "2161557705",
+	"cover": "/assets/discography/covers/CFRC-0001.png",
+	"title": "SpeedSTARS -a Ridge Racer tribute album-",
+	"header": {
+		"image": "/assets/discography/headers/CFRC-0001.png"
+	},
+	"background": {
+		"color": "f7ab1d",
+		"text_color": "000000"
+	},
+	"circle": {
+		"name": "COUNTERFEST RECORDS",
+		"link": "/"
+	},
+	"specification": "Digital Ridge Racer Series Arrange/remix Album",
+	"release_date": "Sep 1st 2025",
+	"catalog": "CFRC-0001",
+	"price": "Free / Name Your Price",
+	"store": {
+		"bandcamp": {
+			"name": "Bandcamp",
+			"link": "https://counterfestrecords.bandcamp.com/album/speedstars-a-ridge-racer-tribute-album"
+		}
+	},
+	"tracklist": {
+		"01": {
+			"title": "Midnight Drift",
+			"artist": "driftsonic",
+			"description": [
+				"• Original Composer: Sampling Masters MEGA",
+				"• Arranger: driftsonic",
+				"",
+				"• Programmed, Produced, Mixed & Mastered by driftsonic",
+				"• Additional Mastering: EQ, Limiting",
+				"",
+				"• Original Track: Speedster",
+				"• Source: Ridge Racer",
+				"",
+				"• Used Software: FL Studio",
+				"• Used VSTs & Samples: Roland JD-800, Roland JV-1080, Korg LegacyCell",
+				"",
+				"• About this track: A dedication to the game that taught me how to drive!",
+				"",
+				"• BPM: 154.840",
+				"• Time Signatures: 4/4",
+				"• Key: C# major",
+				"• Genre: Drifting",
+				"",
+				"https://botnit.bandcamp.com"
+			]
+		},
+		"02": {
+			"title": "Naked Glow -UR MY RR-",
+			"artist": "soothingMelody",
+			"description": [
+				"• Original Composer: Kohta Takahashi [高橋コウタ] (Naked Glow) / Kohta Takahashi [高橋コウタ], Hiroshi Okubo, [大久保博] Asuka Sakai [境亜寿香] (RIDGE RACER -one more win-)",
+				"• Arranger, Vocals & Lyrics: soothingMelody",
+				"• Original Lyrics: Phillip Turnipseed",
+				"• Electric Guitar: soothingMelody",
+				"• Trumpet: Max Peace",
+				"",
+				"• Programmed, Produced & Mixed by soothingMelody",
+				"• Mastering Engineer: malicent (Cursed Monastery / Sigillum Azoetia)",
+				"",
+				"• Original Track: Naked Glow / RIDGE RACER -one more win-",
+				"• Source: R4: Ridge Racer Type 4",
+				"",
+				"• Used Software: FL Studio 24",
+				"",
+				"• About this track: Hiya, Melody here. This arrange was quite the undertaking, it was supposed to be Hideki Naganuma-style at first, but it ended up evolving into its own thing, especially once I reached the chorus and the Jamiroquai inspiration hit me like a truck. I'm happy about this change haha, I think it made the arrangement more dynamic and more fun with this delicious blend of flavours. I hope you enjoy it! B)",
+				"",
+				"• BPM: 132",
+				"• Time Signatures: 4/4",
+				"• Key: 0:00 - G# / 2:30 - G", 
+				"• Genre: Funk / Acid Jazz",
+				"",
+				"• Lyrics",
+				"Cruising down the track, yeah I feel it, we're back",
+				"Crushing the entire competition's weak stack",
+				"You might need a better trial, stat",
+				"That's a tip for you, you should remember that",
+				"",
+				"And we are unpredictable,",
+				"never skip our sharp turns or ever mix syllables",
+				"Call us the fast and furious criminals",
+				"The unsurpassed and wicked individuals",
+				"",
+				"Cuz we serious, so don't mess with us",
+				"You delirious, so don't mess with us",
+				"You missing hundred laps to try and beat us",
+				"Go and train your ass to try defeat us",
+				"",
+				"Ooooooh, ",
+				"can you feel that wonderful flavour?",
+				"Turn it up and drink it, no chaser",
+				"Tires kiss the street, Ridge Racer",
+				"",
+				"That's what I'm thinking babe",
+				"That's what I'm feeling babe",
+				"That's what I'm thinking babe",
+				"That's what I'm feeling babe",
+				"",
+				"Don't stop now, ",
+				"just keep the pace up, babe",
+				"We're Movin'",
+				"Miles ahead",
+				"You're my Ridge Racer",
+				"",
+				"We're stayin'",
+				"in the lead",
+				"And turnin' to the beat",
+				"Don't worry,",
+				"we will win,",
+				"You're my Ridge Racer",
+				"",
+				"You're supersonic now",
+				"Drift 'round the corners now",
+				"With speed you'll please the crowd",
+				"You're my Ridge Racer",
+				"",
+				"And so we",
+				"Stay on track",
+				"They can look at our backs",
+				"Stay focused and relax",
+				"You're my Ridge Racer",
+				"",
+				"He's the one for me,",
+				"There's no place I'd rather be, yeah yeah yeah",
+				"To the finish line,",
+				"Everywhere you look he's right on time!",
+				"",
+				"Woah, step back, it's Ridge Racer",
+				"Oh, Ridge Racer",
+				"He give me what I need",
+				"One more win, it's Ridge Racer",
+				"Oh, Ridge Racer",
+				"I feel the need for speed!",
+				"",
+				"(Ridge Racer!)",
+				"",
+				"Woah, step back, it's Ridge Racer",
+				"He's the only one to get me what I need",
+				"Oh, Ridge Racer, Ridge Racer",
+				"Ridge Racer",
+				"",
+				"https://soothingmelody.bandcamp.com/"
+			]
+		},
+		"03": {
+			"title": "Party's Over For Disco Divas",
+			"artist": "Tektheist",
+			"description": [
+				"• Original Composer: Hiroshi Okubo [大久保博]",
+				"• Arranger: Tektheist (Tektheism)",
+				"",
+				"• Programmed, Produced, Mixed & Mastered by Tektheist (Tektheism)",
+				"• Additional Mastering: Adjusted to proper Ceiling",
+				"",
+				"• Original Track: Disco Ball",
+				"• Source: Ridge Racer (PSP)",
+				"• Original Track: DIVAS",
+				"• Source: R: Racing Evolution",
+				"• Original Track: PARTY'S OVER",
+				"• Source: Ridge R4: Ridge Racer Type 4",
+				"",
+				"• Used Software: FL Studio",
+				"• Used VSTs & Samples: Phaseplant is GOD",
+				"",
+				"• About this track: Sampling is GOD",
+				"",
+				"BPM: 200",
+				"Time Signatures: 4/4",
+				"Key: G 0:00 / B 2:25",
+				"Genre: J-Tek/Hardtek",
+				"",
+				"https://tektheism.bandcamp.com"
+			]
+		},
+		"04": {
+			"title": "Reiko Nagase - Girlboss On Parade",
+			"artist": "ANGELWHISPER",
+			"description": [
+				"• Original Composer: Sampling Masters MEGA, Sampling Masters AYA, sanodg, Takayuki Aihara [相原隆行]",
+				"• Arranger: ANGELWHISPER (ALMIGHTY ARRANGE PROJECT / Technomarina)",
+				"",
+				"• Programmed, Produced & Mixed by ANGELWHISPER (ALMIGHTY ARRANGE PROJECT / Technomarina)",
+				"• Mastering Engineer: malicent (Cursed Monastery / Sigillum Azoetia)",
+				"",
+				"• Original Track: Most songs from Ridge Racer 1 and 2/Revolution. Most notable segments (instead of just short samples) include Over the Highway, Drive U 2 Dancing, Rare Hero and Maximum Zone + the bass sample from Speedster and one of the main samples from Ridge Racer 6's Nitro Mantra",
+				"• Source: Ridge Racer / Ridge Racer 2",
+				"",
+				"• Used Software: FL Studio",
+				"• Used VSTs & Samples: Ridge Racer hits and vocal samples",
+				"",
+				"• About this track: A track hopefully quite clearly based on the DJ Technorch classic Boss On Parade but with samples from Ridge Racer 1 and 2 (and Nitro Mantra from 6). I couldn't decide on what individual track to choose because I love too many, so I thought I'd take influence from one of my favourite rave tracks of all time and combine everything into one. DANCE WHILE \"THE RECORD SPINS\"",
+				"",
+				"BPM: 177",
+				"Time Signatures: 4/4",
+				"Key: N/A",
+				"Genre: Rotterdam Techno/Gabber",
+				"",
+				"https://angelwhisper.bandcamp.com"
+			]
+		},
+		"05": {
+			"title": "The Ride",
+			"artist": "v1ris",
+			"description": [
+			"• Original Composer: Kohta Takahashi [高橋コウタ]",
+			"• Arranger: v1ris",
+			"• Electric Guitar: v1ris",
+			"",
+			"• Programmed, Produced & Mixed by v1ris",
+			"• Mastering Engineer: malicent (Cursed Monastery / Sigillum Azoetia)",
+			"",
+			"• Original Track: The Ride",
+			"• Source: R4: Ridge Racer Type 4",
+			"",
+			"• Used Software: FL Studio",
+			"• Used VSTs & Samples: AMG The Drum and Bass Interface, Zero-G Datafile, Stylus RMX, Korg M1",
+			"",
+			"• About this track: I was listening to a lot of Shadow the Hedgehog music when I wrote this... I love old sample CDs and late 90s/early 2000s tools that video game composers used, and wanted to write my arrangement relying on them.",
+			"",
+			"BPM: 146",
+			"Time Signatures: 4/4",
+			"Key: A minor",
+			"Genre: Electronic Rock",
+			"",
+			"https://v1ris.bandcamp.com/"
+			]
+		},
+		"06": {
+			"title": "th0se Pearly blūe EYΣZ",
+			"artist": "l4ureleye",
+			"description": [
+				"• Original Composer: Hiroshi Okubo [大久保博]",
+				"• Arranger: l4ureleye",
+				"",
+				"• Programmed, Produced, Mixed & Mastered by l4ureleye",
+				"• Additional Mastering: Adjusted to proper Ceiling ",
+				"",
+				"• Original Track: Pearl Blue Soul",
+				"• Source: R4: Ridge Racer Type 4",
+				"",
+				"• Used Software: FL Studio",
+				"• Used VSTs & Samples: 3x Osc, Vital, Sytrus, Slicex, GMS, Valhalla Supermassive, E-Phonic LOFI, Glitchmachines Hysteresis, Digitalis, dblue Crusher",
+				"",
+				"• About this track: 4n attempt to Recapture the PμRΣ ΞMΘ♰1σN that fl0ws through Me whenever I'm Playing this gªme, Experiencing R4. [初回プレイしたから今まで、この気持ちを心に強く持ってる。だから、せったいに死ぬまで忘れないかも。...しかもアメリカ人です、ごめん ^^;;/]",
+				"",
+				"BPM: 144.002",
+				"Time Signatures: 4/4 (0:00 - 1:15) 6/8 (1:15 - 1:56) 4/4 (1:56 - 3:55)",
+				"Key: N/A",
+				"Genre: Disass0ciative Trªnce",
+				"",
+				"https://l4ureleye.bandcamp.com/"
+			]
+		},
+		"07": {
+			"title": "Dancing on the Edge",
+			"artist": "blobdash",
+			"description": [
+				"• Original Composer: Asuka Sakai [境亜寿香]",
+				"• Arranger: blobdash",
+				"",
+				"• Programmed, Produced, Mixed & Mastered by blobdash",
+				"• Additional Mastering: Adjusted to proper Ceiling",
+				"",
+				"• Original Track: Your Vibe",
+				"• Source: R4: Ridge Racer Type 4",
+				"",
+				"• Used Software: FL Studio 2025",
+				"• Used VSTs & Samples: Serum, Infiltrator, Slicex",
+				"",
+				"• About this track: Your Vibe is my favorite track for RR4, along with Move Me. I first started a more DnB oriented remix, but then had the idea of using the piano, violin and basses with a more stutter-ish rhythm, so footwork was the best possible genre for this.",
+				"",
+				"https://blobdash.bandcamp.com/"
+			]
+		},
+		"08": {
+			"title": "DRIFT U 2 D4NCING (AGRESSIVE RACING MONTAGE RMXX)",
+			"artist": "H BOYS",
+			"description": [
+				"• Original Composer: Sampling Masters AYA",
+				"• Arranger: H BOYS",
+				"",
+				"• Programmed, Produced & Mixed by H BOYS",
+				"• Mastered by Volumetrique",
+				"• Additional Mastering: -1db Gain reduction, Adjusted to proper Ceiling",
+				"",
+				"• Original Track: Drive U 2 dancing",
+				"• Source: Ridge Racer 2",
+				"",
+				"BPM: 140",
+				"Time Signatures: 4/4",
+				"Key: Bmin",
+				"Genre: PHONK / HARDTECHNO"
+			]
+		},
+		"09": {
+			"title": "PURPLE HORiZON",
+			"artist": "NATSUKA",
+			"description": [
+				"• Original Composer: AJURIKA (NBGI)",
+				"• Arranger: NATSUKA (TiDAL SKiES)",
+				"",
+				"• Programmed, Produced, Mixed & Mastered by NATSUKA (TiDAL SKiES)",
+				"• Additional Mastering: -1db Gain reduction, Adjusted to proper Ceiling",
+				"",
+				"• Original Track: PURPLE SKY",
+				"• Source: Ridge Racer (Vita)",
+				"",
+				"• Used Software: Reaper",
+				"• Used VSTs & Samples: Vital / DR-910 (DR-909 Emulator) / Kilohearts Suite / TAL Reverb 4 / Melda Suite",
+				"",
+				"• About this track: This track is a complete remake and fusion of my old track \"Horizon Highway\" and AJURIKA's \"Purple Sky\". Horizon Highway was one of my first songs released in 2018, which was a DnB track that tried to capture the sense of standing on a bridge above an urban highway at night, the trails of red and white lights zooming past. Upon the creation of the remake, I slowed down the track and replaced some elements with trance elements, and realized it sounded quite similar to Purple Sky. From there, I decided to make a tribute by calling back to my roots, making the song younger me was trying to make, hoping little NATSUKA will smile. This particular iteration of the track tries to capture the last stretch adrenaline of Ridge Racer, with nothing but one tank of nitro left to push you through the last few turns, battling and protecting your position of 1st place. I hope you enjoy this remake of a track made almost a decade ago!",
+				"",
+				"BPM: 147",
+				"Time Signatures: 4/4",
+				"Key: G minor",
+				"Genre: HIGHWAY TRANCE TRIBUTE",
+				"",
+				"https://tidalskies.bandcamp.com/"
+			]
+		},
+		"10": {
+			"title": "Rare Hero (Canon In DG Mix)",
+			"artist": "ANGELWHISPER",
+			"description": [
+				" Original Composer: sanodg",
+				"• Arranger: ANGELWHISPER (ALMIGHTY ARRANGE PROJECT / Technomarina)",
+				"",
+				"• Programmed, Produced & Mixed by ANGELWHISPER (ALMIGHTY ARRANGE PROJECT / Technomarina)",
+				"• Mastering Engineer: malicent (Cursed Monastery / Sigillum Azoetia)",
+				"",
+				"• Original Track: Rare hero",
+				"• Source: Ridge Racer",
+				"",
+				"• Used Software: FL Studio",
+				"",
+				"• About this track: I thought of the pun first and the song second. Rare Hero is in D Major so changing it to fit the progression of Canon In D fit perfectly. I kinda felt a responsibility to do something for Rare Hero in case nobody else went for it: it's more of a Ridge Racer theme than Ridge Racer to me.",
+				"",
+				"BPM: 156",
+				"Time Signatures: 4/4",
+				"Key: D Major",
+				"Genre: Happy Hardcore",
+				"",
+				"https://angelwhisper.bandcamp.com"
+			]
+		},
+		"11": {
+			"title": "PRIMITIVE",
+			"artist": "Monochrome feat. suzie",
+			"description": [
+			"• Original Composer: Hiroshi Okubo [大久保博]",
+			"• Arranger: Monochrome",
+			"• Vocals: suzie",
+			"",
+			"• Programmed, Produced & Mixed by Monochrome",
+			"• Mastering Engineer: malicent (Cursed Monastery / Sigillum Azoetia)",
+			"",
+			"• Original Track: PROLOGUE",
+			"• Source: Rage Racer",
+			"",
+			"• About this track: I made the decision to scale back on my workload in the middle of the year, and SpeedSTARS was one of the albums I backed out of.  I honestly believed I wouldn't participate, as I lacked both the time to work on it and the connection to the Ridge Racer franchise and its music.  But I kept up with the United Tribute Arrange Force's various Namco tribute albums - contributing to a few myself - and more and more I realized I wanted to at least try to do something for SpeedSTARS.  I credit ANGELWHISPER for giving me the push to make something, even if it was short, and for directing me towards Rage Racer's OST.  I was able to have a lot of fun trying out rally house for the first time - this album seemed like a perfect test drive for that, and I was so into the track that I whipped it up in just 2 days.  Special thank you to suzie for her last-minute voiceover cameo as the Rage Racer narrator!",
+			"",
+			"BPM: 128",
+			"Time Signatures: 4/4",
+			"Key: C#min",
+			"Genre: Rally House",
+			"",
+			"https://monochromemedia.bandcamp.com/"
+			]
+		},
+		"12": {
+			"title": "The Light Wish",
+			"artist": "Yozu C",
+			"description": [
+				"• Original Composer: Ryuichi Takada [高田龍一]",
+				"• Arranger: Yozu C",
+				"",
+				"• Programmed, Produced, Mixed & Mastered by Yozu C",
+				"• Additional Mastering: Adjusted to proper Ceiling",
+				"",
+				"• Original Track: Down to Earth",
+				"• Source: Ridge Racer 7",
+				"",
+				"• Used Software: Ableton Live 11",
+				"• Used VSTs & Samples: Xfer serum, Zynaptiq pitchmap, Fabfilter, Resampling \"Down to Earth\"",
+				"",
+				"BPM: 120(0:00~1:33) - 150(1:33~3:32) - 120(3:32~5:18)",
+				"Time Signatures: N/A",
+				"Key: G#/Ab Major",
+				"Genre: Synthwave",
+				"",
+				"https://yozushitunes.bandcamp.com/"
+			]
+		},
+		"13": {
+			"title": "Moving Forward",
+			"artist": "Raphtalix",
+			"description": [
+				"• Original Composer: sanodg (VIRTUOSO), AJURIKA (NBGI) (PURPLE SKY)",
+				"• Arranger: Raphtalix (KodamaSounds)",
+				"",
+				"• Programmed, Produced & Mixed by Raphtalix (KodamaSounds)",
+				"• Mastering Engineer: malicent (Cursed Monastery / Sigillum Azoetia)",
+				"",
+				"• Original Track: VIRTUOSO / PURPLE SKY",
+				"• Source: Ridge Racer (Vita)",
+				"",
+				"• Used Software: FL Studio",
+				"",
+				"BPM: 125",
+				"Time Signatures: 4/4",
+				"Key: G#m",
+				"Genre: Progressive House",
+				"",
+				"https://raphtalix.bandcamp.com"
+			]
+		},
+		"14": {
+			"title": "Universal Xplorer",
+			"artist": "ViRiX Dreamcore",
+			"description": [
+				"• Composer & Arranger: ViRiX Dreamcore",
+				"",
+				"• Programmed, Produced & Mixed by ViRiX Dreamcore",
+				"• Mastering Engineer: malicent (Cursed Monastery / Sigillum Azoetia)",
+				"",
+				"• Original Track: Image Song",
+				"• Source: Ridge Racer 6",
+				"",
+				"• Used Software: Cubase Pro 12",
+				"• Used VSTs & Samples: Vocal Sample from Find Your Way, VPS Avenger for main synth ambience, Sampletank 4 on Bass guitar, Stylus RMX for most drums, race car sounds from Freesound.org, Nexus 5 for piano, Omnisphere for some bass synths and various other things.",
+				"",
+				"• About this track: This is more of a concept of how a new Ridge Racer menu would sound. As such, the first parts of the track are broken into different menus, such as the title screen, car selection, course selection, and time trial. The second part is more of a celebration of the series where I envision cars speeding down famous locales such as Rave City River Front, and Ridge City. I was initially going to put the announcer in with menu SFX, but thought that might be a bit much.",
+				"",
+				"BPM: 125",
+				"Time Signatures: 10/4 (0:00-01:35:999) 4/4 (01:36-onward)",
+				"Key: Bmin",
+				"Genre: Dance/Breaks",
+				"",
+				"https://virixdreamcore.bandcamp.com/"
+			]
+		},
+		"15": {
+			"title": "Tonight",
+			"artist": {
+				"en": "ehm & MyuPicks feat. Miku Hatsune",
+				"jp": "ehm & MyuPicks feat. 初音ミク"
+			},
+			"description": [
+				"• Original Composer: Taku Inoue [井上拓] (NBGI)",
+				"• Arranger: ehm & MyuPicks",
+				"• Vocals: Miku Hatsune [初音ミク]",
+				"• Original Lyrics: Sky Hy",
+				"",
+				"• Programmed, Produced & Mixed by ehm & MyuPicks",
+				"• Mastering Engineer: malicent (Cursed Monastery / Sigillum Azoetia)",
+				"",
+				"• Original Track: Tonight (Ending Credit)",
+				"• Source: Ridge Racer 3D",
+				"",
+				"• Used Software: pxtone, Vocaloid 4, FL Studio",
+				"",
+				"BPM: 95",
+				"Time Signatures: 4/4",
+				"Key: N/A",
+				"Genre: Hip-Hop",
+				"",
+				"https://x.com/EhMehShmeh"
+			]
+		},
+		"16": {
+			"title": "Pacific Rush",
+			"artist": "driftsonic",
+			"description": [
+				"• Composer & Arranger: driftsonic",
+				"",
+				"• Programmed, Produced, Mixed & Mastered by driftsonic",
+				"• Additional Mastering: EQ, Limiting",
+				"",
+				"• Original Track: Image Song",
+				"• Source: Ridge Racer (PSP)",
+				"",
+				"• Used Software: FL Studio",
+				"• Used VSTs & Samples: Roland JD-800, Arturia DX7 V, Arturia Spark 2",
+				"",
+				"• About this track: Distant memories of racing along the wind-swept California coastline at sunset",
+				"",
+				"BPM: 170/85",
+				"Time Signatures: 4/4",
+				"Key: E♭ minor",
+				"Genre: Drifting",
+				"",
+				"https://botnit.bandcamp.com"
+			]
+		}
+	},
+	"youtube_id": "Ks_IAW9YgRk",
+	"credits": {
+		"1": {
+			"role": "Music",
+			"id": "driftsonic"
+		},
+		"2": {
+			"role": "Music, Vocals, Lyrics, Electric Guitar, Crossfade Video",
+			"id": "soothingMelody"
+		},
+		"3": {
+			"role": "Music",
+			"id": "Tektheist"
+		},
+		"4": {
+			"role": "Music",
+			"id": "ANGELWHISPER"
+		},
+		"5": {
+			"role": "Music",
+			"id": "v1ris"
+		},
+		"6": {
+			"role": "Music",
+			"id": "l4ureleye"
+		},
+		"7": {
+			"role": "Music",
+			"id": "blobdash"
+		},
+		"8": {
+			"role": "Music",
+			"id": "H BOYS"
+		},
+		"9": {
+			"role": "Mastering (Track 08), Audio Crossfade",
+			"id": "Volumetrique"
+		},
+		"10": {
+			"role": "Music",
+			"id": "NATSUKA"
+		},
+		"11": {
+			"role": "Music",
+			"id": "Monochrome"
+		},
+		"12": {
+			"role": "Vocals (Track 11)",
+			"id": "suzie"
+		},
+		"13": {
+			"role": "Music",
+			"id": "Yozu C"
+		},
+		"14": {
+			"role": "Music",
+			"id": "Raphtalix"
+		},
+		"15": {
+			"role": "Music",
+			"id": "ViRiX Dreamcore"
+		},
+		"16": {
+			"role": "Music",
+			"id": "ehm"
+		},
+		"17": {
+			"role": "Music",
+			"id": "MyuPicks"
+		},
+		"18": {
+			"role": "Trumpet (Track 02)",
+			"id": "Max Peace"
+		},
+		"19": {
+			"role": "Original Composer",
+			"id": "Sampling Masters MEGA"
+		},
+		"20": {
+			"role": "Original Composer",
+			"id": "Kohta Takahashi"
+		},
+		"21": {
+			"role": "Original Composer",
+			"id": "Hiroshi Okubo"
+		},
+		"22": {
+			"role": "Original Composer",
+			"id": "Asuka Sakai"
+		},
+		"23": {
+			"role": "Original Composer",
+			"id": "Sampling Masters AYA"
+		},
+		"24": {
+			"role": "Original Composer",
+			"id": "Takayuki Aihara"
+		},
+		"25": {
+			"role": "Original Composer",
+			"id": "AJURIKA"
+		},
+		"26": {
+			"role": "Original Composer",
+			"id": "sanodg"
+		},
+		"27": {
+			"role": "Original Composer",
+			"id": "Ryuichi Takada"
+		},
+		"28": {
+			"role": "Original Lyrics",
+			"id": "Phillip Turnipseed"
+		},
+		"29": {
+			"role": "Original Lyrics",
+			"id": "Sky Hy"
+		},
+		"30": {
+			"role": "Mastering Engineer",
+			"id": "malicent"
+		},
+		"31": {
+			"role": "Illustration, Design & Logo Designer",
+			"id": "Progress"
+		},
+		"32": {
+			"role": "Supervisor & Planner",
+			"id": "Fivda"
+		},
+		"33": {
+			"role": "Japanese Translator",
+			"id": "Yanis"
+		},
+		"34": {
+			"role": "Gameplay Footage",
+			"id": "robinemimimmi"
+		},
+		"35": {
+			"role": "Web",
+			"id": "Bonnie"
+		},
+		"36": {
+			"role": "Web",
+			"id": "Kat"
+		}
+	},
+	"footer": "All original compositions and characters respective of NAMCO & NAMCO BANDAI Games Inc., Ridge Racer © NAMCO, Ridge Racer 2 © NAMCO, R4: Ridge Racer Type 4 © NAMCO, Rage Racer © NAMCO, R: Racing Evolution © NAMCO, Ridge Racer (PSP) © NAMCO, Ridge Racer 6 © NAMCO, Ridge Racer 7 © NAMCO BANDAI Games Inc., Ridge Racer 3D © NAMCO BANDAI Games Inc., Ridge Racer © NAMCO BANDAI Games Inc."
+}

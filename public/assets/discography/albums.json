@@ -63,5 +63,15 @@
         "website": "/releases/left-behind-but-not-forgotten",
         "vgmdb": "https://vgmdb.net/album/153506",
         "bandcamp": "https://counterfestrecords.bandcamp.com/album/left-behind-but-not-forgotten"
+    },
+    "counterfest-heroes-01": {
+        "id": "CFRC-0003",
+        "releaseDate": "2025-10-10T00:00:00+0200",
+        "name": "COUNTERFEST HEROES 01.",
+        "cover": "/assets/discography/covers/CFRC-0002.png",
+        "coverColor": "#f7ab1d",
+        "website": "/releases/counterfest-heroes-01",
+        "vgmdb": "https://vgmdb.net/album/153506",
+        "bandcamp": "https://counterfestrecords.bandcamp.com/album/left-behind-but-not-forgotten"
     }
 }
