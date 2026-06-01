@@ -4,10 +4,10 @@
 		"projects": [
 			{
 				"slug": "counterfest-heroes",
-				"status": "accepting",
-				"percentage": "85",
-				"duration": "57:46",
-				"finished_tracks": "16",
+				"status": "about-to-release",
+				"percentage": "95",
+				"duration": "1:19:00",
+				"finished_tracks": "22",
 				"deadline": "2026-06-01T11:59:59Z",
 				"mastering": {
 					"status": "pending",
