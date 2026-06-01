@@ -54,10 +54,10 @@ export default function ReleaseLayout({ release }) {
 					sizes="16x16"
 					href="/favicons/favicon-16x16.png"
 				/>
-				<title>{release.title + ' - KodamaSounds'}</title>
+				<title>{release.title + ' - COUNTERFEST RECORDS'}</title>
 				<meta
 					property="og:title"
-					content={release.title + ' - KodamaSounds'}
+					content={release.title + ' - COUNTERFEST RECORDS'}
 				/>
 				<meta name="theme-color" content={'#' + release.color} />
 				<meta property="og:image" content={release.cover} />
