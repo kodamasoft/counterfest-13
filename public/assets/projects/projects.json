@@ -3,6 +3,20 @@
 		"cat_slug": "special-albums",
 		"projects": [
 			{
+				"slug": "counterfest-bomb-disposal",
+				"status": "accepting",
+				"percentage": "",
+				"duration": "",
+				"finished_tracks": "",
+				"deadline": "2027-01-04T11:59:59Z",
+				"mastering": {
+					"status": "pending",
+					"engineer": ""
+				},
+				"artwork_comission": "",
+				"color": "#FF5C00"
+			},
+			{
 				"slug": "counterfest-heroes",
 				"status": "about-to-release",
 				"percentage": "95",
