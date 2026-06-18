@@ -5,8 +5,8 @@
 			{
 				"slug": "counterfest-bomb-disposal",
 				"status": "accepting",
-				"percentage": "",
-				"duration": "",
+				"percentage": "0",
+				"duration": "0:00:00",
 				"finished_tracks": "",
 				"deadline": "2027-01-04T11:59:59Z",
 				"mastering": {
@@ -19,9 +19,9 @@
 			{
 				"slug": "counterfest-heroes",
 				"status": "about-to-release",
-				"percentage": "95",
-				"duration": "1:19:00",
-				"finished_tracks": "22",
+				"percentage": "100",
+				"duration": "1:22:36",
+				"finished_tracks": "16",
 				"deadline": "2026-06-01T11:59:59Z",
 				"mastering": {
 					"status": "pending",
