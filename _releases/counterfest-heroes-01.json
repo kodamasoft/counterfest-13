@@ -1,29 +1,29 @@
 {
 	"slug": "counterfest-heroes-01",
-	"logo": "/assets/discography/logos/CFRC-0001.png",
-	"color": "656058",
+	"logo": "/assets/discography/logos/CFRC-0003.png",
+	"color": "b95300",
 	"soundcloud_track_id": "2161557705",
-	"cover": "/assets/discography/covers/CFRC-0001.png",
-	"title": "SpeedSTARS -a Ridge Racer tribute album-",
+	"cover": "/assets/discography/covers/CFRC-0003.png",
+	"title": "COUNTERFEST HEROES 01",
 	"header": {
-		"image": "/assets/discography/headers/CFRC-0001.png"
+		"image": "/assets/discography/headers/CFRC-0003.png"
 	},
 	"background": {
-		"color": "f7ab1d",
-		"text_color": "000000"
+		"color": "f1ece4",
+		"text_color": "1b1b20"
 	},
 	"circle": {
 		"name": "COUNTERFEST RECORDS",
-		"link": "/"
+		"link": "https://counterfest.kodamasoft.net"
 	},
-	"specification": "Digital Ridge Racer Series Arrange/remix Album",
-	"release_date": "Sep 1st 2025 ",
-	"catalog": "CFRC-0001",
+	"specification": "COUNTERFEST CORE Free Compilation",
+	"release_date": "July 3rd 2026",
+	"catalog": "CFRC-0003",
 	"price": "Free / Name Your Price",
 	"store": {
 		"bandcamp": {
 			"name": "Bandcamp",
-			"link": "https://counterfestrecords.bandcamp.com/album/speedstars-a-ridge-racer-tribute-album"
+			"link": "https://counterfestrecords.bandcamp.com/album/counterfest-heroes-01"
 		}
 	},
 	"tracklist": {
