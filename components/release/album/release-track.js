@@ -60,7 +60,10 @@ export default function ReleaseTrack({ track }) {
 							return descParagraph === '' ? (
 								<br key={`br-${index}`} />
 							) : (
-								<p key={index} className="mb-2 text-sm break-words">
+								<p
+									key={index}
+									className="mb-2 text-sm break-words"
+								>
 									{descParagraph}
 								</p>
 							);
