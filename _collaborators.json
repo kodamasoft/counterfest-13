@@ -417,10 +417,8 @@
 	"krz": {
 		"name": "krz",
 		"links": {
-			"twitter": "https://twitter.com/krz0001",
-			"website": "https://kero.uz/",
-			"vgmdb": "https://vgmdb.net/artist/62573",
-			"bsky": "https://bsky.app/profile/kero.uz"
+			"website": "https://krz.rocks",
+			"vgmdb": "https://vgmdb.net/artist/62573"
 		}
 	},
 	"MB": {
@@ -1116,6 +1114,11 @@
 		"name": ".noise",
 		"links": {
 			"twitter": "https://twitter.com/dot_noise",
+			"youtube": "https://www.youtube.com/@dot_noise",
+			"website": "https://linktr.ee/dotnoise",
+			"soundcloud": "https://soundcloud.com/dotnoise",
+			"spotify": "https://open.spotify.com/artist/1Mv4KiZivPAUasSBy2BIr6",
+			"apple": "https://music.apple.com/artist/noise/1754734746",
 			"vgmdb": "https://vgmdb.net/artist/62473"
 		}
 	},
@@ -2667,6 +2670,7 @@
 	"exnoiz": {
 		"name": "exnoiz",
 		"links": {
+			"twiter": "https://twitter.com/ex_noiz",
 			"bandcamp": "https://exnoiz.bandcamp.com/",
 			"soundcloud": "https://soundcloud.com/exnoiz",
 			"spotify": "https://open.spotify.com/artist/5hQKLbZJ29ywTirQ2cCO5k",
