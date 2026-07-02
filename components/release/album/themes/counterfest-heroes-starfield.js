@@ -1,4 +1,5 @@
 import { useEffect, useMemo, useRef, useState } from 'react';
+import Image from 'next/image';
 import {
 	Particles,
 	ParticlesProvider,
@@ -204,10 +205,12 @@ export default function CounterfestHeroesStarfield({ release }) {
 			    viewport. Sits inside the fixed, -z-10 ThemeBackground so it
 			    reads as page background art. Desktop only — hidden below md
 			    to keep mobile clean. */}
-			<img
-				src="/assets/discography/logos/CFRC-0003-character.png"
+			<Image
+				src="/assets/discography/logos/CFRC-0003-character.webp"
 				alt=""
 				aria-hidden="true"
+				width={1200}
+				height={1200}
 				className="hidden md:block absolute bottom-0 right-0 h-[60vh] w-auto opacity-15 select-none"
 			/>
 		</div>
