@@ -1,4 +1,5 @@
 @import 'tailwindcss';
+@import './counterfest-heroes.css';
 
 @plugin '@tailwindcss/typography';
 @plugin '@headlessui/tailwindcss';

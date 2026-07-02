@@ -1,16 +1,14 @@
 {
 	"slug": "counterfest-heroes-01",
+	"theme": "counterfest-heroes",
 	"logo": "/assets/discography/logos/CFRC-0003.png",
 	"color": "b95300",
 	"soundcloud_track_id": "2351440781",
 	"cover": "/assets/discography/covers/CFRC-0003.png",
 	"title": "COUNTERFEST HEROES 01",
-	"header": {
-		"image": "/assets/discography/headers/CFRC-0003.png"
-	},
 	"background": {
-		"color": "f1ece4",
-		"text_color": "1b1b20"
+		"color": "0a0a12",
+		"text_color": "f1ece4"
 	},
 	"circle": {
 		"name": "COUNTERFEST RECORDS",
