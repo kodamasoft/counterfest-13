@@ -1,0 +1,98 @@
+/* counterfest-heroes theme
+   Multi-shape starfield background (rendered by the theme's ThemeBackground
+   component via tsParticles) + Lato typography + pixel-art buttons.
+   Everything is scoped under .theme-counterfest-heroes. */
+
+.theme-counterfest-heroes {
+	/* Page type: Lato (bold for headers). */
+	--font-release: var(--font-lato), 'Lato', system-ui, sans-serif;
+
+	/* Starfield color (all stars). Change this to re-tint the whole field. */
+	--star-color: #ffffff;
+
+	/* Let the fixed starfield canvas (behind everything) show through.
+	   Overrides the inline background-color the layout sets from the JSON. */
+	background-color: transparent !important;
+	background-image: none !important;
+}
+
+/* Headers -> Lato bold. */
+.theme-counterfest-heroes h2,
+.theme-counterfest-heroes h3 {
+	font-weight: 900;
+	letter-spacing: 0.06em;
+}
+
+/* ---- Logo entrance ---- */
+/* Blur + brightness fade-in on page load. Targets the release logo (now the
+   character art) via its alt attribute, so no component override is needed. */
+@keyframes heroes-logo-in {
+	from {
+		opacity: 0;
+		filter: blur(24px) brightness(2.2);
+	}
+	to {
+		opacity: 1;
+		filter: blur(0) brightness(1);
+	}
+}
+
+.theme-counterfest-heroes img[alt='Logo'] {
+	animation: heroes-logo-in 1.4s cubic-bezier(0.22, 1, 0.36, 1) both;
+}
+
+/* Description panels: translucent frosted-glass background so the starfield
+   shows through, blurred for legibility. No left border. */
+.theme-counterfest-heroes .accordian-body {
+	background-color: rgba(12, 12, 12, 0.45);
+	backdrop-filter: blur(8px);
+	-webkit-backdrop-filter: blur(8px);
+}
+
+/* ---- Call to action (pixel-art buttons) ---- */
+
+.theme-counterfest-heroes .heroes-cta {
+	background-color: rgba(12, 12, 12, 0.45);
+	border-top: 2px solid rgba(255, 255, 255, 0.08);
+	border-bottom: 2px solid rgba(255, 255, 255, 0.08);
+	backdrop-filter: blur(8px);
+	-webkit-backdrop-filter: blur(8px);
+}
+
+.theme-counterfest-heroes .heroes-cta__label {
+	font-weight: 700;
+	letter-spacing: 0.4em;
+	font-size: 1.1rem;
+	opacity: 0.55;
+	margin: 1.25rem 0 0.75rem;
+}
+
+/* Simple button: transparent pill with the release color as its accent,
+   filling in on hover. */
+.theme-counterfest-heroes .heroes-pixel-btn {
+	font-weight: 700;
+	font-size: 1rem;
+	color: var(--release-color);
+	background: transparent;
+	padding: 0.65rem 1.6rem;
+	border: 2px solid var(--release-color);
+	border-radius: 9999px;
+	transition:
+		background-color 0.2s ease,
+		color 0.2s ease;
+}
+
+.theme-counterfest-heroes .heroes-pixel-btn:hover,
+.theme-counterfest-heroes .heroes-pixel-btn:focus-visible {
+	background: var(--release-color);
+	color: #0a0a12;
+	outline: none;
+}
+
+@media (prefers-reduced-motion: reduce) {
+	.theme-counterfest-heroes .heroes-pixel-btn,
+	.theme-counterfest-heroes img[alt='Logo'] {
+		animation: none;
+		transition: none;
+	}
+}

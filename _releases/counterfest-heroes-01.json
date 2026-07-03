@@ -1,0 +1,682 @@
+{
+	"slug": "counterfest-heroes-01",
+	"theme": "counterfest-heroes",
+	"logo": "/assets/discography/logos/CFRC-0003.png",
+	"color": "b95300",
+	"soundcloud_track_id": "2351440781",
+	"cover": "/assets/discography/covers/CFRC-0003.png",
+	"title": "COUNTERFEST HEROES 01",
+	"background": {
+		"color": "0a0a12",
+		"text_color": "f1ece4"
+	},
+	"circle": {
+		"name": "COUNTERFEST RECORDS",
+		"link": "https://counterfest.kodamasoft.net"
+	},
+	"specification": "COUNTERFEST CORE Free Compilation",
+	"release_date": "July 3rd 2026",
+	"catalog": "CFRC-0003",
+	"price": "Free / Name Your Price",
+	"store": {
+		"bandcamp": {
+			"name": "Bandcamp",
+			"link": "https://counterfestrecords.bandcamp.com/album/counterfest-heroes-01"
+		}
+	},
+	"tracklist": {
+		"01": {
+			"title": "Yukinoshita Construction",
+			"artist": "COPYRiGHT JOKER",
+			"description": [
+			"• Arranger: COPYRiGHT JOKER",
+			"",
+			"• Programmed, Produced & Mixed by COPYRiGHT JOKER",
+			"• Mastering Engineer: malicent (Cursed Monastery / Sigillum Azoetia)",
+			"",
+			"• Original Track: \"Grand Escape feat. Miura Toko [グランドエスケープ feat.三浦透子]\" by RADWIMPS (2:17~2:37)",
+			"• Source: Weathering With You [天気の子] & My Teen Romantic Comedy SNAFU [やはり俺の青春ラブコメはまちがっている。]",
+			"",
+			"• Used Software: FL Studio",
+			"",
+			"BPM: 200",
+			"Time Signatures: 4/4",
+			"Key: Ebmaj",
+			"Genre: Hardtek / Construction",
+			"",
+			"https://copyrightjoker.bandcamp.com/"
+			]
+		},
+		"02": {
+			"title": "IBUPROFEN",
+			"artist": "Casio Lamb",
+			"description": [
+			"• Arranger: Casio Lamb (KodamaSounds)",
+			"",
+			"• Programmed, Produced & Mixed by Casio Lamb (KodamaSounds)",
+			"• Mastering Engineer: malicent (Cursed Monastery / Sigillum Azoetia)",
+			"",
+			"• Original Track: \"Rather Be\" by Clean Bandit feat. Jess Glynne",
+			"• Original Track: \"mental anguish\" by glaive & ericdoa",
+			"• Original Track: \"Sad Machine\" by Porter Robinson",
+			"• Original Track: \"Thrift Shop\" by Macklemore",
+			"• Original Track: \"Tek It (I Watch The Moon)\" by Cafuné",
+			"• Original Track: \"Screw the Nether (Moves Like Jagger Parody)\" by The Yogscast",
+			"• Original Track: \"Teenage Dirtbag\" by Wheatus",
+			"• Original Track: \"679\" by Fetty Wap",
+			"• Original Track: \"I CAN GET DICK ANYTIME I WANT\" by DJ Starr #NJCLUB",
+			"• Original Track: \"Jet2Holiday Remix\" by Big Shaq",
+			"• Original Track: \"All Time Low\" by Jon Bellion",
+			"• Original Track: \"I Really Like You\" by Carly Rae Jepsen",
+			"• Original Track: \"blisters\" by kmoe",
+			"• Original Track: \"Carpet\" by Toby Fox",
+			"• Original Track: \"I Love It\" by Kanye West & Lil Pump",
+			"• Original Track: \"Rude\" by MAGIC!",
+			"",
+			"• Used Software: Ableton Live 12 Suite",
+			"• Used VSTs & Samples: Serum 2, \"Fah!\", \"Peter the horse is here\", \"John Sterling reads a grocery list\", \"Chester Stone finds a bag of Newports at 7 11!\", \"The longest drum fill in the world\", I.W. - POV: you send me an anime girl blush emote, \"John Cena Prank Call 4\", Terraria Magic Mirror, \"I'm Gay\", Toby Fox - Carpet",
+			"",
+			"• About this track: World's Smallest Violin might be one of the worst songs to ever try to bootleg.",
+			"",
+			"BPM: 150 BPM (0:00 to 1:20), 132 BPM gradually to 138 BPM (1:20 to 1:34), 138 BPM (1:34 to 1:48), 138 BPM gradually to 171 BPM (1:48 to 1:57), 171 BPM (1:57 to 2:48), 150BPM (2:48 to END)",
+			"Time Signatures: 4/4",
+			"Key: Emaj",
+			"Genre: Mashcore",
+			"",
+			"https://x.com/LambLifeform"
+			]
+		},
+		"03": {
+			"title": "thermite pink",
+			"artist": "degrade",
+			"description": [
+			"• Composer & Arranger: goropi",
+			"",
+			"• Programmed, Produced & Mixed by goropi",
+			"• Mastering Engineer: malicent (Cursed Monastery / Sigillum Azoetia)",
+			"",
+			"• Original Track: \"Down\" by drumcorps",
+			"",
+			"• Used Software: Ableton Live",
+			"• Used VSTs & Samples: KClip, Blue Archive",
+			"",
+			"• About this track: Chaotic and fun. [カオスで楽しいです。]",
+			"",
+			"BPM: 250 (0:00~2:15) 350 (2:15~2:24) 200~60 (2:24~2:38)",
+			"Time Signatures: 4/4",
+			"Key: N/A",
+			"Genre: Gabber",
+			"",
+			"https://goropi.bandcamp.com/"
+			]
+		},
+		"04": {
+			"title": "Shak",
+			"artist": "sanmal",
+			"description": [
+			"• Arranger: sanmal (MYORPH)",
+			"",
+			"• Programmed, Produced, Mixed & Mastered by sanmal (MYORPH)",
+			"• Additional Mastering: db Ceiling Adjustment",
+			"",
+			"• Original Track: \"Shakushain [シャクシャイン]\" by Wednesday Campanella [水曜日のカンパネラ]",
+			"",
+			"• Used Software: Ableton Live",
+			"",
+			"BPM: 175",
+			"Time Signatures: 4/4",
+			"Key: N/A",
+			"Genre: Drum and Bass",
+			"",
+			"https://sanmal.bandcamp.com/"
+			]
+		},
+		"05": {
+			"title": "BRUXARIA CYPRIEN RESPONDE AO CORTEX",
+			"artist": "DJ GATO GRANDE",
+			"description": [
+			"• Original Composer: Nodey",
+			"• Arranger: DJ GATO GRANDE",
+			"",
+			"• Programmed, Produced, Mixed & Mastered by DJ GATO GRANDE",
+			"• Additional Mastering: db Ceiling Adjustment",
+			"",
+			"• Original Track: \"Cyprien répond à Cortex\" by Cyprien",
+			"",
+			"BPM: 140",
+			"Time Signatures: 4/4",
+			"Key: B minor",
+			"Genre: Baile funk / Beat bruxaria",
+			"",
+			"• About this track: cyprien du brésil"
+			]
+		},
+		"06": {
+			"title": "Silver Key",
+			"artist": "sabi",
+			"description": [
+			"• Original Composer: Q flavor, Hideyuki Fukasawa [深澤秀行], Giga & TeddyLoid",
+			"• Arranger: sabi (miso-nicomi records)",
+			"",
+			"• Programmed, Produced & Mixed by sabi (miso-nicomi records)",
+			"• Mastering Engineer: malicent (Cursed Monastery / Sigillum Azoetia)",
+			"",
+			"• Original Track: suspicion (Anime Ver.), eyes on you (Anime Ver.) & \"Bake no Kawa\" by MAISONdes feat. Kobo Kanaeru [こぼ・かなえる], Teto Kasane [重音 テト], Giga & TeddyLoid",
+			"• Source: GNOSIA (Game) [グノーシア (ゲーム)] & GNOSIA (Series) [グノーシア (アニメ)]",
+			"",
+			"• Used Software: FL Studio 2025",
+			"",
+			"• About this track: Don't doubt. Don't be afraid. And know. Knowledge will save all.",
+			"",
+			"BPM: 175",
+			"Time Signatures: 4/4",
+			"Key: N/A",
+			"Genre: Footcore",
+			"",
+			"https://x.com/sabi_c"
+			]
+		},
+		"07": {
+			"title": "12AM",
+			"artist": "exnoiz",
+			"description": [
+			"• Original Composer: SOZEN OTSUBO",
+			"• Arranger: exnoiz",
+			"",
+			"• Programmed, Produced & Mixed by exnoiz",
+			"• Mastering Engineer: malicent (Cursed Monastery / Sigillum Azoetia)",
+			"",
+			"• Original Track: \"Midnight（feat.メトロミュー）\" by SOZEN OTSUBO",
+			"",
+			"• Used Software: FL Studio",
+			"",
+			"BPM: 280",
+			"Time Signatures: 4/4",
+			"Key: N/A",
+			"Genre: breakcore",
+			"",
+			"https://x.com/ex_noiz"
+			]
+		},
+		"08": {
+			"title": "Leaf",
+			"artist": "Tektheist",
+			"description": [
+			"• Original Composer: Shinya Ishikawa [石川真也]",
+			"• Arranger: Tektheist (Tektheism)",
+			"",
+			"• Programmed, Produced, Mixed & Mastered by Tektheist (Tektheism)",
+			"• Additional Mastering: db Ceiling Adjustment",
+			"",
+			"• Original Track: Awakening Moon [寝覚月]",
+			"• Source: Kizuato [痕 -きずあと-]",
+			"",
+			"BPM: 200",
+			"Time Signatures: 4/4",
+			"Key: A",
+			"Genre: J-tek/Tribe/Hardtek",
+			"",
+			"https://bandcamp.com/tektheism"
+			]
+		},
+		"09": {
+			"title": "BAHTUTA",
+			"artist": "blobdash",
+			"description": [
+			"• Original Composer: Ghiorghita Iorga",
+			"• Arranger: blobdash",
+			"",
+			"• Programmed, Produced, Mixed & Mastered by blobdash",
+			"• Additional Mastering: db Ceiling Adjustment",
+			"",
+			"• Original Track: \"Bãtutã din Moldova\", \"Doinã Deascultare\" & \"Batutã la trompeta\" by Fanfare Vagabontu",
+			"• Source: Rabbids Go Home: A Comedy Adventure",
+			"",
+			"• Used Software: FL Studio 2025",
+			"",
+			"• About this track: it funni",
+			"",
+			"BPM: 240 (0:00~0:42) - n/a (0:42~1:04) - 240 (1:04~end)",
+			"Time Signatures: 4/4",
+			"Key: F",
+			"Genre: stupidity",
+			"",
+			"https://blobdash.bandcamp.com/"
+			]
+		},
+		"10": {
+			"title": "Culture Given To The Weak",
+			"artist": "DJKurara",
+			"description": [
+			"• Original Composer: HIZAGUTYA",
+			"• Arranger: DJKurara (KURAHLAB)",
+			"",
+			"• Programmed, Produced, Mixed & Mastered by DJKurara (KURAHLAB)",
+			"• Additional Mastering: DC offset filter, Clipper, Limiter, db Ceiling Adjustment",
+			"",
+			"BPM: 200",
+			"Time Signatures: 4/4",
+			"Key: F",
+			"Genre: Nustyle Gabber",
+			"",
+			"https://linktr.ee/djkurara"
+			]
+		},
+		"11": {
+			"title": "The World",
+			"artist": "ECLAIR",
+			"description": [
+			"• Composer & Arranger: ECLAIR",
+			"",
+			"• Programmed, Produced & Mixed by ECLAIR",
+			"• Mastering Engineer: malicent (Cursed Monastery / Sigillum Azoetia)",
+			"",
+			"• Source: JoJo's Bizarre Adventure: Stardust Crusaders [ジョジョの奇妙な冒険 スターダストクルセイダース]",
+			"",
+			"• Used Software: FL",
+			"",
+			"BPM: 140",
+			"Time Signatures: 4/4",
+			"Key: Dmin",
+			"Genre: Dubstep",
+			"",
+			"https://x.com/IamECLAIR"
+			]
+		},
+		"12": {
+			"title": "<meta charset=\"EBCDIC\">",
+			"artist": {
+				"en": "Internet Baby",
+				"jp": "インターネット乳幼児"
+			},
+			"description": [
+			"• Composer & Arranger: Internet Baby [インターネット乳幼児]",
+			"",
+			"• Programmed, Produced & Mixed by Internet Baby [インターネット乳幼児]",
+			"• Mastering Engineer: malicent (Cursed Monastery / Sigillum Azoetia)",
+			"",
+			"BPM: 230(0:00~1:06)115(1:06~1:08)122(1:08~1:10)128(1:10~1:12)135(1:12~1:14)142(1:14~1:16)150(1:16~1:17)157(1:17~1:19)165(1:19~1:20)173(1:20~1:22)180(1:22~123)188(1:23~1:24)196(1:24~1:25)204(1:25~1:27)211(1:27~1:28)218(1:28~1:29)222(1:29~1:30)230(1:30~End)",
+			"Time Signatures: 4/4",
+			"Key: Fm + 50cent",
+			"Genre: Breakcore"
+			]
+		},
+		"13": {
+			"title": "GET IT",
+			"artist": "IZEI",
+			"description": [
+			"• Original Composer: Daft Punk (Thomas Bangalter, Guy-Manuel de Homem-Christo)",
+			"• Arranger: IZEI",
+			"",
+			"• Programmed, Produced & Mixed by IZEI",
+			"• Mastering Engineer: malicent (Cursed Monastery / Sigillum Azoetia)",
+			"",
+			"• Original Track: \"Technologic\" by Daft Punk",
+			"",
+			"• Used Software: FL Studio",
+			"",
+			"BPM: 200",
+			"Time Signatures: 4/4",
+			"Key: F minor",
+			"Genre: Frenchcore",
+			"",
+			"https://izei.bandcamp.com/"
+			]
+		},
+		"14": {
+			"title": "299,792,458ms",
+			"artist": "pencil",
+			"description": [
+			"• Original Composer: Moe Shop",
+			"• Arranger: pencil (Dochakuso Records)",
+			"",
+			"• Programmed, Produced & Mixed by pencil (Dochakuso Records)",
+			"• Mastering Engineer: malicent (Cursed Monastery / Sigillum Azoetia)",
+			"",
+			"• Original Track: Fluorite by Mao Arimura (CV: Tsumugi Nanase) [有村麻央 (CV: 七瀬つむぎ)]",
+			"• Source: Gakuen IDOLM@STER [学園アイドルマスター]",
+			"",
+			"• Used Software: FL Studio 2025",
+			"",
+			"• About this track: When I'm sampling, I try my best to incorporate the source material differently within my own style, as objectively as I possibly can. Since I prefer songs offering a different vision, I made sure to destructure the original work down to tiny bits, instead of using it plain and simple. [僕はサンプリングをするにあたって、サンプリング元を自分の曲に入れる音として出来るだけフラットな目線で見て、新たな解釈が生まれている曲が好きなので、サンプリング元を出来るだけそのまま使わないように細かく刻む事を心掛けました。]",
+			"",
+			"BPM: 160",
+			"Time Signatures: 4/4",
+			"Key: N/A",
+			"Genre: Footcore",
+			"",
+			"https://pencil.bandcamp.com/"
+			]
+		},
+		"15": {
+			"title": "Daydream café (PSYQUO's Pyon Pyon Bootleg)",
+			"artist": "PSYQUO",
+			"description": [
+			"• Original Composer: Kaoru Okubo [大久保薫]",
+			"• Arranger: PSYQUO (KodamaSounds)",
+			"",
+			"• Programmed, Produced, Mixed & Mastered by PSYQUO (KodamaSounds)",
+			"• Additional Mastering: db Ceiling Adjustment",
+			"",
+			"• Original Track: \"Daydream café\" by Petit Rabbit's",
+			"• Source: Is the Order a Rabbit? [ご注文はうさぎですか?]",
+			"",
+			"• Used Software: FL Studio, Reaper",
+			"",
+			"• About this track: Hi, It's PSYQUO! GochiUsa was one my favorite series back in the day. It has a lot of music that was and still is an inspiration for me. So, I decided to pay homage and to remix the very first opening - Daydream café. I turned the energy up a notch and made a hardcore track. As always, thanks for listening!",
+			"",
+			"BPM: 187",
+			"Time Signatures: 4/4",
+			"Key: Eb",
+			"Genre: Hardcore",
+			"",
+			"https://psyquo.bandcamp.com/"
+			]
+		},
+		"16": {
+			"title": {
+				"en": "Hibikase (Sonance Bootleg)",
+				"jp": "ヒビカセ (Sonance Bootleg)"
+			},
+			"artist": "Sonance",
+			"description": [
+			"• Original Composer: Giga",
+			"• Arranger: Sonance",
+			"",
+			"• Programmed, Produced, Mixed & Mastered by Sonance",
+			"• Additional Mastering: db Ceiling Adjustment",
+			"",
+			"• Original Track: \"Hibikase [ヒビカセ]\" by REOL",
+			"",
+			"• Used Software: Ableton Live 12 Suite",
+			"• Used VSTs & Samples: MWaveshaper",
+			"",
+			"• About this track: I wanted to make a Baile Funk track, so I completely reworked the bass track from the original song! [バイレファンキをしたかったので原曲のベースステムを魔改造しました！]",
+			"",
+			"BPM: 136",
+			"Time Signatures: 4/4",
+			"Key: F minor",
+			"Genre: N/A",
+			"",
+			"https://sonancetunes.bandcamp.com/"
+			]
+		},
+		"17": {
+			"title": "Split The Bullet",
+			"artist": "Temma",
+			"description": [
+			"• Original Composer: Manabu Namiki [並木學], Yoh Ohyama [大山曜], Masanao Akahori [赤堀正直]",
+			"• Arranger: Temma",
+			"",
+			"• Programmed, Produced & Mixed by Temma",
+			"• Mastering Engineer: malicent (Cursed Monastery / Sigillum Azoetia)",
+			"",
+			"• Original Track: Angels' Melancholy - Stage Clear",
+			"• Source: Deathsmiles [デススマイルズ]",
+			"• Original Track: Blacksmith",
+			"• Source: Hanachirasu [刃鳴散らす]",
+			"• Original Track: We've gotta do it",
+			"• Source: Assault Suits Valken [重装機兵ヴァルケン]",
+			"• Original Track: \"Mist & ShadowOnTheBeat freestyle\" by SwaggaCampMedia",
+			"",
+			"• Used Software: FL Studio 20",
+			"• Used VSTs & Samples: Vital, Serum 2, Deathsmiles Voicelines",
+			"",
+			"• About this track: A crazy sampling J-Tek track that was inspired by my recent visit to an arcade and a VN I played recently. Features many different styles and sounds. Sampling is GOD.",
+			"",
+			"BPM: 190",
+			"Time Signatures: 4/4",
+			"Key: not sure of key but root note is F",
+			"Genre: J-Tek",
+			"",
+			"https://x.com/Temma40"
+			]
+		},
+		"18": {
+			"title": "Fond Memories (Yozu C Bootleg)",
+			"artist": "Yozu C",
+			"description": [
+			"• Original Composer: Kobo Kanaeru",
+			"• Arranger: Yozu C",
+			"• Original Vocals & Original Lyrics: Kobo Kanaeru",
+			"",
+			"• Programmed, Produced, Mixed & Mastered by Yozu C",
+			"• Additional Mastering: db Ceiling Adjustment",
+			"",
+			"• Original Track: \"Fond Memories\" by Kobo Kanaeru",
+			"",
+			"• Used Software: Ableton Live 11",
+			"",
+			"• About this track: Gila, sumpah, aku suka banget lagu ini.",
+			"",
+			"BPM: 166",
+			"Time Signatures: 4/4",
+			"Key: D major",
+			"Genre: Liquid Drum&Bass",
+			"",
+			"https://yozushitunes.bandcamp.com/"
+			]
+		},
+		"19": {
+			"title": "View from the rooftop",
+			"artist": "zot!k",
+			"description": [
+			"• Original Composer: mifumei [ミフメイ] (Bandai Namco Studios Inc.)",
+			"• Arranger: zot!k (Musekinin Records)",
+			"",
+			"• Programmed, Produced & Mixed by zot!k (Musekinin Records)",
+			"• Mastering Engineer: malicent (Cursed Monastery / Sigillum Azoetia)",
+			"",
+			"• Original Track: Moon Turtle [ツキノカメ]",
+			"• Source: Gakuen IDOLM@STER [学園アイドルマスター]",
+			"",
+			"https://zotik.bandcamp.com/"
+			]
+		},
+		"20": {
+			"title": "I Don't Want Your Damn Intelligence!",
+			"artist": ".noise",
+			"description": [
+			"• Composer & Arranger: .noise",
+			"",
+			"• Programmed, Produced, Mixed & Mastered by .noise",
+			"• Additional Mastering: db Ceiling Adjustment",
+			"",
+			"• Used Software: FL Studio 2025",
+			"",
+			"• About this track: It’s a Gabber Disco track! Packed with recognisable (and very dated) samples. Made during mild intoxication.",
+			"",
+			"BPM: 220 (0:00 ~ 3:02) - 180 (3:02 ~ 4:11) - 0 (4:11~ 4:21)",
+			"Time Signatures: 4/4",
+			"Key: N/A",
+			"Genre: Gabber Disco",
+			"",
+			"https://x.com/dot_noise"
+			]
+		},
+		"21": {
+			"title": "WIP (Unfinished)",
+			"artist": "Round Wave Crusher",
+			"description": [
+			"• Arranger: Round Wave Crusher",
+			"• Original Composer: Adam Gubman",
+			"• Original Vocals: Moana Avvenenti",
+			"• Original Lyrics: Adam Gubman, Piper Gubman",
+			"",
+			"• Programmed, Produced, Mixed & Mastered by Round Wave Crusher (Rodrigo Rodriguez)",
+			"• Additional Mastering: db Ceiling Adjustment",
+			"",
+			"• Original Track: An Unfinished Song [未尽之歌]",
+			"• Source: Wuthering Waves",
+			"",
+			"• Used Software: FL Studio",
+			"• Used VSTs & Samples: Serum 2",
+			"",
+			"• About this track: The original track is called \"An Unfinished Song\", it's the character song for the \"Shorekeeper\". The original track has no lyrics for the second part. It's suposed to be completed by the protagonist that never actually came back until he does. That's why the song name is \"WIP (Unfinished)\".",
+			"",
+			"BPM: 200",
+			"Time Signatures: 4/4",
+			"Key: N/A",
+			"Genre: Hardtek / Hardcore",
+			"",
+			"https://roundwavecrusher.bandcamp.com/"
+			]
+		},
+		"22": {
+			"title": {
+				"en": "Kyoumen no Nami (Oversleep Re-crystallization)",
+				"jp": "鏡面の波 (Oversleep Re-crystallization)"
+			},
+			"artist": "Oversleep",
+			"description": [
+			"• Original Composer: Yoshimasa Terui [照井順政]",
+			"• Arranger: Oversleep",
+			"",
+			"• Programmed, Produced & Mixed by Oversleep",
+			"• Mastering Engineer: malicent (Cursed Monastery / Sigillum Azoetia)",
+			"",
+			"• Original Track: \"Kyoumen no Nami [鏡面の波]\" by YURiKA",
+			"• Source: Land of the Lustrous [宝石の国]",
+			"",
+			"• Used Software: Vital, Zebra3, Serum2, Current, Operator, Repro1, Kontakt8, DX7 V",
+			"",
+			"• About this track: This is a re-arrangement of the OP song from Land of the Lustrous. I tried to replicate the song's structure and progression, before it crumbles, dissipates, and gradually takes a new form through its cracks - similarly to the formation of the Gems from the original story. Hence why I deliberately chose the title \"Re-crystallization\" instead of \"Remix\". [原曲はアニメ「宝石の国」のオープニングテーマです。崩れ、霧散し、ほころびから徐々に形作られていく楽曲の展開を原作の宝石たちの成り立ちになぞらえ、RemixではなくあえてRecrystallization(再結晶)を名乗りました。]",
+			"",
+			"BPM: 175",
+			"Time Signatures: 4/4",
+			"Key: Gm",
+			"Genre: N/A",
+			"",
+			"https://over-sleep.bandcamp.com"
+			]
+		}
+	},
+	"youtube_id": "PQscjwThQdg",
+	"credits": {
+		"1": {
+			"role": "Music",
+			"id": "COPYRiGHT JOKER"
+		},
+		"2": {
+			"role": "Music",
+			"id": "Casio Lamb"
+		},
+		"3": {
+			"role": "Music",
+			"id": "degrade"
+		},
+		"4": {
+			"role": "Music",
+			"id": "sanmal"
+		},
+		"5": {
+			"role": "Music",
+			"id": "DJ GATO GRANDE"
+		},
+		"6": {
+			"role": "Music",
+			"id": "sabi"
+		},
+		"7": {
+			"role": "Music",
+			"id": "exnoiz"
+		},
+		"8": {
+			"role": "Music",
+			"id": "Tektheist"
+		},
+		"9": {
+			"role": "Music",
+			"id": "blobdash"
+		},
+		"10": {
+			"role": "Music",
+			"id": "DJKurara"
+		},
+		"11": {
+			"role": "Music",
+			"id": "ECLAIR"
+		},
+		"12": {
+			"role": "Music",
+			"id": "Internet Baby"
+		},
+		"13": {
+			"role": "Music",
+			"id": "IZEI"
+		},
+		"14": {
+			"role": "Music",
+			"id": "pencil"
+		},
+		"15": {
+			"role": "Music",
+			"id": "PSYQUO"
+		},
+		"16": {
+			"role": "Music",
+			"id": "Sonance"
+		},
+		"17": {
+			"role": "Music",
+			"id": "Temma"
+		},
+		"18": {
+			"role": "Music",
+			"id": "Yozu C"
+		},
+		"19": {
+			"role": "Music",
+			"id": "zot!k"
+		},
+		"20": {
+			"role": "Music",
+			"id": ".noise"
+		},
+		"21": {
+			"role": "Music",
+			"id": "Round Wave Crusher"
+		},
+		"22": {
+			"role": "Music",
+			"id": "Oversleep"
+		},
+		"23": {
+			"role": "Mastering Engineer",
+			"id": "malicent"
+		},
+		"24": {
+			"role": "Audio Crossfade",
+			"id": "Volumetrique"
+		},
+		"25": {
+			"role": "Illustration, Design & Logo Designer",
+			"id": "ChocoPain"
+		},
+		"26": {
+			"role": "Supervisor & Planner",
+			"id": "Fivda"
+		},
+		"27": {
+			"role": "Japanese Translator",
+			"id": "Yanis"
+		},
+		"28": {
+			"role": "Crossfade Video",
+			"id": "RummySM"
+		},
+		"29": {
+			"role": "Web",
+			"id": "krz"
+		},
+		"30": {
+			"role": "Web",
+			"id": "Doggibelle"
+		},
+		"31": {
+			"role": "Web",
+			"id": "VIIweights"
+		}
+	},
+	"footer": "All original compositions and characters respective of whoever the hell did what man come on it's a free comp and all sources are in each track details!!!!!"
+}
