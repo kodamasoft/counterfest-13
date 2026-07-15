@@ -44,6 +44,10 @@ export default function Meta() {
 				property="og:url"
 				content="https://counterfest.kodamasoft.net/"
 			/>
+			<meta
+				property="og:image"
+				content="public/assets/Logo_Orange_Transparent.png"
+			/>
 			<meta property="og:type" content="website" />
 		</Head>
 	);
