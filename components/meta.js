@@ -46,8 +46,9 @@ export default function Meta() {
 			/>
 			<meta
 				property="og:image"
-				content="public/assets/Logo_Orange_Transparent.png"
+				content="%PUBLIC_URL%/assets/Logo_Orange_Transparent.png"
 			/>
+
 			<meta property="og:type" content="website" />
 		</Head>
 	);
