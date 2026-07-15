@@ -38,7 +38,7 @@ export default function Meta() {
 			<meta property="og:title" content="COUNTERFEST RECORDS" />
 			<meta
 				property="og:description"
-				content="COUNTERFEST RECORDS is a 2025 established Bootleg Sub-Label for KodamaSounds."
+				content="Arrangements, Remixes, Bootlegs, & Counter Cultures focused sub-label of KodamaSounds."
 			/>
 			<meta
 				property="og:url"
