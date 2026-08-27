@@ -18,16 +18,16 @@
 			},
 			{
 				"slug": "counterfest-heroes",
-				"status": "about-to-release",
+				"status": "released",
 				"percentage": "100",
 				"duration": "1:22:36",
 				"finished_tracks": "16",
 				"deadline": "2026-06-01T11:59:59Z",
 				"mastering": {
-					"status": "pending",
+					"status": "completed",
 					"engineer": "malicent (Cursed Monastery / Sigillum Azoetia)"
 				},
-				"artwork_comission": "sketching",
+				"artwork_comission": "completed",
 				"color": "#FF5C00"
 			}
 		]
