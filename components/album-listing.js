@@ -1,4 +1,4 @@
-import { FaBandcamp, FaGlobe, FaSpotify } from 'react-icons/fa';
+import { FaBandcamp, FaGlobe, FaPlay, FaSpotify, FaYoutube } from 'react-icons/fa';
 import { SiApplemusic, SiYoutubemusic } from 'react-icons/si';
 
 import BoothSVG from '../public/assets/icons/booth.svg';
@@ -94,6 +94,16 @@ export default function AlbumListing({ slug }) {
 						<FaGlobe className="h-4 w-4 mr-2" />
 						Website
 					</a>
+
+					{album.fullAlbum ? (
+						<a
+							href={album.fullAlbum}
+							className="kodama_btn kodama_btn--primary"
+						>
+							<SiYoutubemusic className="h-4 w-4 mr-2" />
+							Full Album
+						</a>
+					) : null}
 
 					{album.vgmdb ? (
 						<a
