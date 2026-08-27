@@ -68,6 +68,7 @@
 				"status": "accepting",
 				"percentage": "0",
 				"duration": "00:00",
+				"deadline": "2027-03-01T11:59:59Z",
 				"finished_tracks": "0",
 				"mastering": {
 					"status": "pending",
