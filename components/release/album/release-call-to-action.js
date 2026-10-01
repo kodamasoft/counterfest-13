@@ -7,26 +7,33 @@ const PHYSICAL_STORE_NAMES = [
 	'Bandcamp (Physical)',
 ];
 
-function StoreButton({ storeItem }) {
+// A store's own `physical` flag wins; otherwise it is sorted by name.
+function isPhysical(store) {
+	return store.physical ?? PHYSICAL_STORE_NAMES.includes(store.name);
+}
+
+const BUTTON_STYLES = {
+	outline:
+		'text-[color:var(--release-color)] border-[color:var(--release-color)] hover:text-white hover:bg-[color:var(--release-color)]',
+	filled: 'text-white bg-[color:var(--release-color)] border-[color:var(--release-color)] hover:opacity-80',
+};
+
+function StoreButton({ storeItem, buttonStyle }) {
 	return (
 		<Link
 			key={storeItem[0]}
 			href={storeItem[1].link}
-			className="inline-block text-center text-lg rounded border-2 py-3 px-8 m-1 transition text-[color:var(--release-color)] border-[color:var(--release-color)] hover:text-white hover:bg-[color:var(--release-color)]"
+			className={`inline-block text-center text-lg rounded border-2 py-3 px-8 m-1 transition ${BUTTON_STYLES[buttonStyle] || BUTTON_STYLES.outline}`}
 		>
 			{storeItem[1].name}
 		</Link>
 	);
 }
 
-export default function ReleaseCallToAction({ store }) {
+export default function ReleaseCallToAction({ store, buttonStyle }) {
 	const entries = Object.entries(store);
-	const physical = entries.filter((s) =>
-		PHYSICAL_STORE_NAMES.includes(s[1].name)
-	);
-	const digital = entries.filter(
-		(s) => !PHYSICAL_STORE_NAMES.includes(s[1].name)
-	);
+	const physical = entries.filter((s) => isPhysical(s[1]));
+	const digital = entries.filter((s) => !isPhysical(s[1]));
 
 	return (
 		<section className="bg-current/5 mt-16 py-8">
@@ -44,6 +51,7 @@ export default function ReleaseCallToAction({ store }) {
 							<StoreButton
 								key={storeItem[0]}
 								storeItem={storeItem}
+								buttonStyle={buttonStyle}
 							/>
 						))}
 					</>
@@ -59,6 +67,7 @@ export default function ReleaseCallToAction({ store }) {
 							<StoreButton
 								key={storeItem[0]}
 								storeItem={storeItem}
+								buttonStyle={buttonStyle}
 							/>
 						))}
 					</>
