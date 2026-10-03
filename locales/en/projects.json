@@ -36,6 +36,10 @@
             "title": "COUNTERFEST HEROES 01",
             "themes": "Original/Bootleg Compilation"
         },
+        "counterfest-heroes-02": {
+            "title": "COUNTERFEST HEROES 02",
+            "themes": "Original/Bootleg Compilation"
+        },
         "counterfest-bomb-disposal": {
             "title": "COUNTERFEST BOMB DISPOSAL",
             "themes": "Explosive Chiptune/FM Compilation"
@@ -75,6 +79,10 @@
         "speedstars": {
             "title": "SpeedSTARS -a Ridge Racer tribute album-",
             "themes": "Ridge Racer centered album"
+        },
+        "land-of-the-lustrous": {
+            "title": "Zn₂Fe(PO₄)₂·4H₂O -a Land of the Lustrous tribute album-",
+            "themes": "Land of the Lustrous centered album"
         }
     }
 }
