@@ -1,4 +1,10 @@
-import { FaBandcamp, FaGlobe, FaPlay, FaSpotify, FaYoutube } from 'react-icons/fa';
+import {
+	FaBandcamp,
+	FaGlobe,
+	FaPlay,
+	FaSpotify,
+	FaYoutube,
+} from 'react-icons/fa';
 import { SiApplemusic, SiYoutubemusic } from 'react-icons/si';
 
 import BoothSVG from '../public/assets/icons/booth.svg';
