@@ -1,6 +1,6 @@
 # KodamaSoft
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/f1d18fbb-7b34-4c31-80d7-a8bd3495ae05/deploy-status)](https://app.netlify.com/sites/counterfest/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/f1d18fbb-7b34-4c31-80d7-a8bd3495ae05/deploy-status)](https://app.netlify.com/sites/kodamasoft/deploys)
 
 # How to run
 
@@ -8,8 +8,37 @@ After running `npm install` and `npm run dev`, you can visit the blog at [http:/
 
 # Information editing guide
 
+## Blogposts
 
-## CounterfestRecords / Discography
+To add a blogpost, create a new file in the `_posts` directory. The file should be named with the ID of your post. The file should start with the following header:
+
+```yaml
+---
+title: 'KodamaDirect 2024'
+date: '2024-03-30T18:00:00+0200'
+locale: jp
+author: Robin
+public: true
+twin: kodamadirect-2024
+---
+```
+
+- `title` is the title of the post.
+- `date` is the date and time of the post. (in ISO 8601 format)
+- `locale` is the locale of the post.
+- `author` is the author of the post.
+- `public` is whether the post is public or not.
+- `twin` is the twin post of the post. (if your post is a JP twin of an already existing EN post, you should put the ID of the EN post here, and vice versa)
+
+The rest of the file is the content of the post. You can use MDX syntax to write the content of the post.
+All posts are displayed in the homepage page in the order of their `date` field.
+
+## KodamaSoft / Software listings
+
+- To edit the page itself: `/pages/kodamasoft.page.js`
+- To edit the listings: `/public/assets/games/releases.json`
+
+## KodamaSounds / Discography
 
 - To edit the page itself: `/pages/discography.page.js`
 - To edit the listings: `/public/assets/discography/albums.json`
@@ -48,7 +77,7 @@ The `projects.json` file is structured as follows:
   "projects": [
    {
     "slug":"eclectic-resonance-legendaria",
-    "status": "accepting",
+    "status": "gen-open",
     "percentage": "0",
     "duration": "00:00",
     "finished_tracks": "0",
@@ -57,7 +86,7 @@ The `projects.json` file is structured as follows:
      "status": "pending",
      "engineer": "R-Man (Resonant Union)"
     },
-    "artwork_comission": "Pending",
+    "artwork_commission": "Pending",
     "color": "#d44215"
    },
             ...
@@ -80,7 +109,7 @@ The file contains a list of categories.
   - `mastering` is the mastering information of the project.
     - `status` is the status of the mastering.
     - `engineer` is the mastering engineer.
-  - `artwork_comission` is the status of the artwork commission.
+  - `artwork_commission` is the status of the artwork commission.
   - `color` is the color of the project card.
 
 ### Project pages
@@ -99,3 +128,9 @@ export const meta = {
 
 The rest of the file is the content of the project page. You can use MDX syntax to write the content of the page.
 Refer to the other pages in the directory for examples on how to add content, set deadlines, refer discography releases
+
+## Staff
+
+- To edit the page itself: `/pages/staff.page.js`
+- To edit the listings: `/public/assets/staff/stafflist.json`
+The `"_legacy": "true"` field is used to determine whether the staff member is displayed in the legacy section (bottom of the page) or not.

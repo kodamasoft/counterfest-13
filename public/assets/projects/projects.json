@@ -3,45 +3,45 @@
 		"cat_slug": "special-albums",
 		"projects": [
 			{
-				"slug": "counterfest-heroes-02",
-				"status": "accepting",
+				"slug": "counterfest-bomb-disposal",
+				"status": "gen-open",
 				"percentage": "0",
 				"duration": "0:00:00",
-				"finished_tracks": "",
-				"deadline": "2027-06-01T11:59:59Z",
+				"finished_tracks": "0",
+				"deadline": "2027-01-04T11:59:59Z",
 				"mastering": {
-					"status": "pending",
+					"status": "master-notstarted",
 					"engineer": ""
 				},
-				"artwork_comission": "",
+				"artwork_commission": "illust-notstarted",
 				"color": "#FF5C00"
 			},
 			{
-				"slug": "counterfest-bomb-disposal",
-				"status": "accepting",
+				"slug": "counterfest-heroes-02",
+				"status": "gen-open",
 				"percentage": "0",
 				"duration": "0:00:00",
-				"finished_tracks": "",
-				"deadline": "2027-01-04T11:59:59Z",
+				"finished_tracks": "0",
+				"deadline": "2027-06-01T11:59:59Z",
 				"mastering": {
-					"status": "pending",
+					"status": "master-notstarted",
 					"engineer": ""
 				},
-				"artwork_comission": "",
+				"artwork_commission": "illust-notstarted",
 				"color": "#FF5C00"
 			},
 			{
 				"slug": "counterfest-heroes",
-				"status": "released",
+				"status": "gen-released",
 				"percentage": "100",
 				"duration": "1:22:36",
 				"finished_tracks": "16",
 				"deadline": "2026-06-01T11:59:59Z",
 				"mastering": {
-					"status": "completed",
+					"status": "master-complete",
 					"engineer": "malicent (Cursed Monastery / Sigillum Azoetia)"
 				},
-				"artwork_comission": "completed",
+				"artwork_commission": "illust-complete-physical",
 				"color": "#FF5C00"
 			}
 		]
@@ -50,99 +50,99 @@
 		"cat_slug": "tribute-albums",
 		"projects": [
 			{
-				"slug": "land-of-the-lustrous",
-				"status": "accepting",
-				"percentage": "0",
-				"duration": "00:00",
-				"finished_tracks": "0",
-				"deadline": "2027-11-15T11:59:59Z",
-				"mastering": {
-					"status": "",
-					"engineer": ""
-				},
-				"artwork_comission": "",
-				"color": "#ceab82"
-			},
-			{
-				"slug": "vanilla-parfait",
-				"status": "accepting",
-				"percentage": "0",
-				"duration": "00:00",
-				"finished_tracks": "0",
-				"deadline": "2025-05-04T11:59:59Z",
-				"mastering": {
-					"status": "pending",
-					"engineer": "R-Man (Resonant Union)"
-				},
-				"artwork_comission": "completed",
-				"color": "#ceab82"
-			},
-			{
 				"slug": "moonstruck-analogy-ii",
-				"status": "accepting",
+				"status": "gen-open",
 				"percentage": "0",
 				"duration": "00:00",
 				"deadline": "2027-03-01T11:59:59Z",
 				"finished_tracks": "0",
 				"mastering": {
-					"status": "pending",
+					"status": "master-notstarted",
 					"engineer": "???"
 				},
-				"artwork_comission": "pending",
+				"artwork_commission": "pending",
 				"color": "#fde68a"
 			},
 			{
+				"slug": "land-of-the-lustrous",
+				"status": "gen-open",
+				"percentage": "0",
+				"duration": "00:00",
+				"finished_tracks": "0",
+				"deadline": "2027-11-15T11:59:59Z",
+				"mastering": {
+					"status": "master-notstarted",
+					"engineer": ""
+				},
+				"artwork_commission": "illust-notstarted",
+				"color": "#ceab82"
+			},
+			{
 				"slug": "fragments-of-gratitude-ii",
-				"status": "accepting",
+				"status": "gen-open",
 				"percentage": "5",
 				"duration": "03:25",
 				"finished_tracks": "1",
 				"mastering": {
-					"status": "pending",
+					"status": "master-notstarted",
 					"engineer": "???"
 				},
-				"artwork_comission": "pending",
+				"artwork_commission": "pending",
 				"color": "#7dd3fc"
 			},
 			{
 				"slug": "katamania-2",
-				"status": "accepting",
+				"status": "gen-open",
 				"percentage": "0",
 				"duration": "00:00",
 				"finished_tracks": "0",
 				"mastering": {
-					"status": "pending",
+					"status": "master-notstarted",
 					"engineer": "???"
 				},
-				"artwork_comission": "pending",
+				"artwork_commission": "pending",
 				"color": "#f472b6"
 			},
 			{
 				"slug": "midnight-syndrome-2",
-				"status": "accepting",
+				"status": "gen-open",
 				"percentage": "0",
 				"duration": "00:00",
 				"finished_tracks": "0",
 				"mastering": {
-					"status": "pending",
+					"status": "master-notstarted",
 					"engineer": "???"
 				},
-				"artwork_comission": "pending",
+				"artwork_commission": "pending",
 				"color": "#e94242"
 			},
 			{
 				"slug": "speedstars",
-				"status": "released",
+				"status": "gen-released",
 				"percentage": "100",
 				"duration": "1:00:41",
 				"finished_tracks": "16",
 				"deadline": "2025-07-31T23:59:59Z",
 				"mastering": {
-					"status": "completed",
+					"status": "master-complete",
 					"engineer": "malicent (Cursed Monastery / Sigillum Azoetia)"
 				},
-				"artwork_comission": "completed",
+				"artwork_commission": "illust-complete-physical",
 				"color": "#ff5733"
+			},
+			{
+				"slug": "vanilla-parfait",
+				"status": "about-to-release",
+				"percentage": "0",
+				"duration": "00:00",
+				"finished_tracks": "0",
+				"deadline": "2025-05-04T11:59:59Z",
+				"mastering": {
+					"status": "master-complete",
+					"engineer": "R-Man (Resonant Union)"
+				},
+				"artwork_commission": "illust-complete-physical",
+				"color": "#ceab82"
 			}
 		]
 	}
