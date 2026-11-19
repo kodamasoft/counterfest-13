@@ -37,6 +37,7 @@
 				"duration": "1:22:36",
 				"finished_tracks": "16",
 				"deadline": "2026-06-01T11:59:59Z",
+				"bgImage": "/assets/discography/headers/CFRC-0003.png",
 				"mastering": {
 					"status": "master-complete",
 					"engineer": "malicent (Cursed Monastery / Sigillum Azoetia)"
