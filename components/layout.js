@@ -10,6 +10,7 @@ const noto = Noto_Sans_JP({
 	weight: ['400', '900'],
 	variable: '--font-noto',
 	fallback: ['system-ui', 'arial'],
+	preload: false, // disables build-time fetching
 });
 
 export default function Layout({ children }) {

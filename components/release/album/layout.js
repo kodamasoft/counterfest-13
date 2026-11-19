@@ -10,6 +10,7 @@ const noto = Noto_Sans_JP({
 	subsets: ['latin'],
 	weight: ['400', '900'],
 	variable: '--font-noto',
+	preload: false, // disables build-time fetching
 });
 
 export default function ReleaseLayout({ release }) {
